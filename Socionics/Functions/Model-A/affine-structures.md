@@ -1,0 +1,573 @@
+Labels: ['Base', 'Creative', 'Role', 'Vulnerable', 'Suggestive', 'Mobilising', 'Ignoring', 'Demonstrative']
+Total affine Z2^3 structures: 30
+
+System 1 (Classical Model A)
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Vulnerable
+  100 -> Suggestive
+  101 -> Mobilising
+  110 -> Ignoring
+  111 -> Demonstrative
+Dichotomies:
+  d1: Base,Creative,Role,Vulnerable | Suggestive,Mobilising,Ignoring,Demonstrative (Mental / Vital)
+  d2: Base,Creative,Suggestive,Mobilising | Role,Vulnerable,Ignoring,Demonstrative (Valued / Subdued)
+  d3: Base,Creative,Ignoring,Demonstrative | Role,Vulnerable,Suggestive,Mobilising (Strong / Weak)
+  d4: Base,Role,Suggestive,Ignoring | Creative,Vulnerable,Mobilising,Demonstrative (Accepting / Producing)
+  d5: Base,Role,Mobilising,Demonstrative | Creative,Vulnerable,Suggestive,Ignoring (Bold / Cautious)
+  d6: Base,Vulnerable,Suggestive,Demonstrative | Creative,Role,Mobilising,Ignoring (Evaluatory / Situational)
+  d7: Base,Vulnerable,Mobilising,Ignoring | Creative,Role,Suggestive,Demonstrative (Inert / Contact)
+
+System 2
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Vulnerable
+  100 -> Suggestive
+  101 -> Mobilising
+  110 -> Demonstrative
+  111 -> Ignoring
+Dichotomies:
+  d1: Base,Creative,Role,Vulnerable | Suggestive,Mobilising,Ignoring,Demonstrative (Mental / Vital)
+  d2: Base,Creative,Suggestive,Mobilising | Role,Vulnerable,Ignoring,Demonstrative (Valued / Subdued)
+  d3: Base,Creative,Ignoring,Demonstrative | Role,Vulnerable,Suggestive,Mobilising (Strong / Weak)
+  d4: Base,Role,Suggestive,Demonstrative | Creative,Vulnerable,Mobilising,Ignoring
+  d5: Base,Role,Mobilising,Ignoring | Creative,Vulnerable,Suggestive,Demonstrative
+  d6: Base,Vulnerable,Suggestive,Ignoring | Creative,Role,Mobilising,Demonstrative
+  d7: Base,Vulnerable,Mobilising,Demonstrative | Creative,Role,Suggestive,Ignoring
+
+System 3
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Vulnerable
+  100 -> Suggestive
+  101 -> Ignoring
+  110 -> Mobilising
+  111 -> Demonstrative
+Dichotomies:
+  d1: Base,Creative,Role,Vulnerable | Suggestive,Mobilising,Ignoring,Demonstrative (Mental / Vital)
+  d2: Base,Creative,Suggestive,Ignoring | Role,Vulnerable,Mobilising,Demonstrative
+  d3: Base,Creative,Mobilising,Demonstrative | Role,Vulnerable,Suggestive,Ignoring (Pronounced / Subtle)
+  d4: Base,Role,Suggestive,Mobilising | Creative,Vulnerable,Ignoring,Demonstrative
+  d5: Base,Role,Ignoring,Demonstrative | Creative,Vulnerable,Suggestive,Mobilising
+  d6: Base,Vulnerable,Suggestive,Demonstrative | Creative,Role,Mobilising,Ignoring (Evaluatory / Situational)
+  d7: Base,Vulnerable,Mobilising,Ignoring | Creative,Role,Suggestive,Demonstrative (Inert / Contact)
+
+System 4
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Vulnerable
+  100 -> Suggestive
+  101 -> Ignoring
+  110 -> Demonstrative
+  111 -> Mobilising
+Dichotomies:
+  d1: Base,Creative,Role,Vulnerable | Suggestive,Mobilising,Ignoring,Demonstrative (Mental / Vital)
+  d2: Base,Creative,Suggestive,Ignoring | Role,Vulnerable,Mobilising,Demonstrative
+  d3: Base,Creative,Mobilising,Demonstrative | Role,Vulnerable,Suggestive,Ignoring (Pronounced / Subtle)
+  d4: Base,Role,Suggestive,Demonstrative | Creative,Vulnerable,Mobilising,Ignoring
+  d5: Base,Role,Mobilising,Ignoring | Creative,Vulnerable,Suggestive,Demonstrative
+  d6: Base,Vulnerable,Suggestive,Mobilising | Creative,Role,Ignoring,Demonstrative (Impressionable / Unimpressionable)
+  d7: Base,Vulnerable,Ignoring,Demonstrative | Creative,Role,Suggestive,Mobilising (Tensioned / Relaxed)
+
+System 5
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Vulnerable
+  100 -> Suggestive
+  101 -> Demonstrative
+  110 -> Mobilising
+  111 -> Ignoring
+Dichotomies:
+  d1: Base,Creative,Role,Vulnerable | Suggestive,Mobilising,Ignoring,Demonstrative (Mental / Vital)
+  d2: Base,Creative,Suggestive,Demonstrative | Role,Vulnerable,Mobilising,Ignoring (Energetic / Informational)
+  d3: Base,Creative,Mobilising,Ignoring | Role,Vulnerable,Suggestive,Demonstrative (Excitable / Inhibitable)
+  d4: Base,Role,Suggestive,Mobilising | Creative,Vulnerable,Ignoring,Demonstrative
+  d5: Base,Role,Ignoring,Demonstrative | Creative,Vulnerable,Suggestive,Mobilising
+  d6: Base,Vulnerable,Suggestive,Ignoring | Creative,Role,Mobilising,Demonstrative
+  d7: Base,Vulnerable,Mobilising,Demonstrative | Creative,Role,Suggestive,Ignoring
+
+System 6 (Gulenko-Newman)
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Vulnerable
+  100 -> Suggestive
+  101 -> Demonstrative
+  110 -> Ignoring
+  111 -> Mobilising
+Dichotomies:
+  d1: Base,Creative,Role,Vulnerable | Suggestive,Mobilising,Ignoring,Demonstrative (Mental / Vital)
+  d2: Base,Creative,Suggestive,Demonstrative | Role,Vulnerable,Mobilising,Ignoring (Energetic / Informational)
+  d3: Base,Creative,Mobilising,Ignoring | Role,Vulnerable,Suggestive,Demonstrative (Excitable / Inhibitable)
+  d4: Base,Role,Suggestive,Ignoring | Creative,Vulnerable,Mobilising,Demonstrative (Accepting / Producing)
+  d5: Base,Role,Mobilising,Demonstrative | Creative,Vulnerable,Suggestive,Ignoring (Bold / Cautious)
+  d6: Base,Vulnerable,Suggestive,Mobilising | Creative,Role,Ignoring,Demonstrative (Impressionable / Unimpressionable)
+  d7: Base,Vulnerable,Ignoring,Demonstrative | Creative,Role,Suggestive,Mobilising (Tensioned / Relaxed)
+
+System 7
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Suggestive
+  100 -> Vulnerable
+  101 -> Mobilising
+  110 -> Ignoring
+  111 -> Demonstrative
+Dichotomies:
+  d1: Base,Creative,Role,Suggestive | Vulnerable,Mobilising,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Mobilising | Role,Suggestive,Ignoring,Demonstrative
+  d3: Base,Creative,Ignoring,Demonstrative | Role,Vulnerable,Suggestive,Mobilising (Strong / Weak)
+  d4: Base,Role,Vulnerable,Ignoring | Creative,Suggestive,Mobilising,Demonstrative
+  d5: Base,Role,Mobilising,Demonstrative | Creative,Vulnerable,Suggestive,Ignoring (Bold / Cautious)
+  d6: Base,Vulnerable,Suggestive,Demonstrative | Creative,Role,Mobilising,Ignoring (Evaluatory / Situational)
+  d7: Base,Suggestive,Mobilising,Ignoring | Creative,Role,Vulnerable,Demonstrative
+
+System 8
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Suggestive
+  100 -> Vulnerable
+  101 -> Mobilising
+  110 -> Demonstrative
+  111 -> Ignoring
+Dichotomies:
+  d1: Base,Creative,Role,Suggestive | Vulnerable,Mobilising,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Mobilising | Role,Suggestive,Ignoring,Demonstrative
+  d3: Base,Creative,Ignoring,Demonstrative | Role,Vulnerable,Suggestive,Mobilising (Strong / Weak)
+  d4: Base,Role,Vulnerable,Demonstrative | Creative,Suggestive,Mobilising,Ignoring
+  d5: Base,Role,Mobilising,Ignoring | Creative,Vulnerable,Suggestive,Demonstrative
+  d6: Base,Vulnerable,Suggestive,Ignoring | Creative,Role,Mobilising,Demonstrative
+  d7: Base,Suggestive,Mobilising,Demonstrative | Creative,Role,Vulnerable,Ignoring
+
+System 9
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Suggestive
+  100 -> Vulnerable
+  101 -> Ignoring
+  110 -> Mobilising
+  111 -> Demonstrative
+Dichotomies:
+  d1: Base,Creative,Role,Suggestive | Vulnerable,Mobilising,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Ignoring | Role,Suggestive,Mobilising,Demonstrative
+  d3: Base,Creative,Mobilising,Demonstrative | Role,Vulnerable,Suggestive,Ignoring (Pronounced / Subtle)
+  d4: Base,Role,Vulnerable,Mobilising | Creative,Suggestive,Ignoring,Demonstrative
+  d5: Base,Role,Ignoring,Demonstrative | Creative,Vulnerable,Suggestive,Mobilising
+  d6: Base,Vulnerable,Suggestive,Demonstrative | Creative,Role,Mobilising,Ignoring (Evaluatory / Situational)
+  d7: Base,Suggestive,Mobilising,Ignoring | Creative,Role,Vulnerable,Demonstrative
+
+System 10
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Suggestive
+  100 -> Vulnerable
+  101 -> Ignoring
+  110 -> Demonstrative
+  111 -> Mobilising
+Dichotomies:
+  d1: Base,Creative,Role,Suggestive | Vulnerable,Mobilising,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Ignoring | Role,Suggestive,Mobilising,Demonstrative
+  d3: Base,Creative,Mobilising,Demonstrative | Role,Vulnerable,Suggestive,Ignoring (Pronounced / Subtle)
+  d4: Base,Role,Vulnerable,Demonstrative | Creative,Suggestive,Mobilising,Ignoring
+  d5: Base,Role,Mobilising,Ignoring | Creative,Vulnerable,Suggestive,Demonstrative
+  d6: Base,Vulnerable,Suggestive,Mobilising | Creative,Role,Ignoring,Demonstrative (Impressionable / Unimpressionable)
+  d7: Base,Suggestive,Ignoring,Demonstrative | Creative,Role,Vulnerable,Mobilising
+
+System 11
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Suggestive
+  100 -> Vulnerable
+  101 -> Demonstrative
+  110 -> Mobilising
+  111 -> Ignoring
+Dichotomies:
+  d1: Base,Creative,Role,Suggestive | Vulnerable,Mobilising,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Demonstrative | Role,Suggestive,Mobilising,Ignoring
+  d3: Base,Creative,Mobilising,Ignoring | Role,Vulnerable,Suggestive,Demonstrative (Excitable / Inhibitable)
+  d4: Base,Role,Vulnerable,Mobilising | Creative,Suggestive,Ignoring,Demonstrative
+  d5: Base,Role,Ignoring,Demonstrative | Creative,Vulnerable,Suggestive,Mobilising
+  d6: Base,Vulnerable,Suggestive,Ignoring | Creative,Role,Mobilising,Demonstrative
+  d7: Base,Suggestive,Mobilising,Demonstrative | Creative,Role,Vulnerable,Ignoring
+
+System 12
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Suggestive
+  100 -> Vulnerable
+  101 -> Demonstrative
+  110 -> Ignoring
+  111 -> Mobilising
+Dichotomies:
+  d1: Base,Creative,Role,Suggestive | Vulnerable,Mobilising,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Demonstrative | Role,Suggestive,Mobilising,Ignoring
+  d3: Base,Creative,Mobilising,Ignoring | Role,Vulnerable,Suggestive,Demonstrative (Excitable / Inhibitable)
+  d4: Base,Role,Vulnerable,Ignoring | Creative,Suggestive,Mobilising,Demonstrative
+  d5: Base,Role,Mobilising,Demonstrative | Creative,Vulnerable,Suggestive,Ignoring (Bold / Cautious)
+  d6: Base,Vulnerable,Suggestive,Mobilising | Creative,Role,Ignoring,Demonstrative (Impressionable / Unimpressionable)
+  d7: Base,Suggestive,Ignoring,Demonstrative | Creative,Role,Vulnerable,Mobilising
+
+System 13
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Mobilising
+  100 -> Vulnerable
+  101 -> Suggestive
+  110 -> Ignoring
+  111 -> Demonstrative
+Dichotomies:
+  d1: Base,Creative,Role,Mobilising | Vulnerable,Suggestive,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Suggestive | Role,Mobilising,Ignoring,Demonstrative
+  d3: Base,Creative,Ignoring,Demonstrative | Role,Vulnerable,Suggestive,Mobilising (Strong / Weak)
+  d4: Base,Role,Vulnerable,Ignoring | Creative,Suggestive,Mobilising,Demonstrative
+  d5: Base,Role,Suggestive,Demonstrative | Creative,Vulnerable,Mobilising,Ignoring
+  d6: Base,Vulnerable,Mobilising,Demonstrative | Creative,Role,Suggestive,Ignoring
+  d7: Base,Suggestive,Mobilising,Ignoring | Creative,Role,Vulnerable,Demonstrative
+
+System 14
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Mobilising
+  100 -> Vulnerable
+  101 -> Suggestive
+  110 -> Demonstrative
+  111 -> Ignoring
+Dichotomies:
+  d1: Base,Creative,Role,Mobilising | Vulnerable,Suggestive,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Suggestive | Role,Mobilising,Ignoring,Demonstrative
+  d3: Base,Creative,Ignoring,Demonstrative | Role,Vulnerable,Suggestive,Mobilising (Strong / Weak)
+  d4: Base,Role,Vulnerable,Demonstrative | Creative,Suggestive,Mobilising,Ignoring
+  d5: Base,Role,Suggestive,Ignoring | Creative,Vulnerable,Mobilising,Demonstrative (Accepting / Producing)
+  d6: Base,Vulnerable,Mobilising,Ignoring | Creative,Role,Suggestive,Demonstrative (Inert / Contact)
+  d7: Base,Suggestive,Mobilising,Demonstrative | Creative,Role,Vulnerable,Ignoring
+
+System 15
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Mobilising
+  100 -> Vulnerable
+  101 -> Ignoring
+  110 -> Suggestive
+  111 -> Demonstrative
+Dichotomies:
+  d1: Base,Creative,Role,Mobilising | Vulnerable,Suggestive,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Ignoring | Role,Suggestive,Mobilising,Demonstrative
+  d3: Base,Creative,Suggestive,Demonstrative | Role,Vulnerable,Mobilising,Ignoring (Energetic / Informational)
+  d4: Base,Role,Vulnerable,Suggestive | Creative,Mobilising,Ignoring,Demonstrative
+  d5: Base,Role,Ignoring,Demonstrative | Creative,Vulnerable,Suggestive,Mobilising
+  d6: Base,Vulnerable,Mobilising,Demonstrative | Creative,Role,Suggestive,Ignoring
+  d7: Base,Suggestive,Mobilising,Ignoring | Creative,Role,Vulnerable,Demonstrative
+
+System 16
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Mobilising
+  100 -> Vulnerable
+  101 -> Ignoring
+  110 -> Demonstrative
+  111 -> Suggestive
+Dichotomies:
+  d1: Base,Creative,Role,Mobilising | Vulnerable,Suggestive,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Ignoring | Role,Suggestive,Mobilising,Demonstrative
+  d3: Base,Creative,Suggestive,Demonstrative | Role,Vulnerable,Mobilising,Ignoring (Energetic / Informational)
+  d4: Base,Role,Vulnerable,Demonstrative | Creative,Suggestive,Mobilising,Ignoring
+  d5: Base,Role,Suggestive,Ignoring | Creative,Vulnerable,Mobilising,Demonstrative (Accepting / Producing)
+  d6: Base,Vulnerable,Suggestive,Mobilising | Creative,Role,Ignoring,Demonstrative (Impressionable / Unimpressionable)
+  d7: Base,Mobilising,Ignoring,Demonstrative | Creative,Role,Vulnerable,Suggestive
+
+System 17
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Mobilising
+  100 -> Vulnerable
+  101 -> Demonstrative
+  110 -> Suggestive
+  111 -> Ignoring
+Dichotomies:
+  d1: Base,Creative,Role,Mobilising | Vulnerable,Suggestive,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Demonstrative | Role,Suggestive,Mobilising,Ignoring
+  d3: Base,Creative,Suggestive,Ignoring | Role,Vulnerable,Mobilising,Demonstrative
+  d4: Base,Role,Vulnerable,Suggestive | Creative,Mobilising,Ignoring,Demonstrative
+  d5: Base,Role,Ignoring,Demonstrative | Creative,Vulnerable,Suggestive,Mobilising
+  d6: Base,Vulnerable,Mobilising,Ignoring | Creative,Role,Suggestive,Demonstrative (Inert / Contact)
+  d7: Base,Suggestive,Mobilising,Demonstrative | Creative,Role,Vulnerable,Ignoring
+
+System 18
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Mobilising
+  100 -> Vulnerable
+  101 -> Demonstrative
+  110 -> Ignoring
+  111 -> Suggestive
+Dichotomies:
+  d1: Base,Creative,Role,Mobilising | Vulnerable,Suggestive,Ignoring,Demonstrative
+  d2: Base,Creative,Vulnerable,Demonstrative | Role,Suggestive,Mobilising,Ignoring
+  d3: Base,Creative,Suggestive,Ignoring | Role,Vulnerable,Mobilising,Demonstrative
+  d4: Base,Role,Vulnerable,Ignoring | Creative,Suggestive,Mobilising,Demonstrative
+  d5: Base,Role,Suggestive,Demonstrative | Creative,Vulnerable,Mobilising,Ignoring
+  d6: Base,Vulnerable,Suggestive,Mobilising | Creative,Role,Ignoring,Demonstrative (Impressionable / Unimpressionable)
+  d7: Base,Mobilising,Ignoring,Demonstrative | Creative,Role,Vulnerable,Suggestive
+
+System 19
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Ignoring
+  100 -> Vulnerable
+  101 -> Suggestive
+  110 -> Mobilising
+  111 -> Demonstrative
+Dichotomies:
+  d1: Base,Creative,Role,Ignoring | Vulnerable,Suggestive,Mobilising,Demonstrative
+  d2: Base,Creative,Vulnerable,Suggestive | Role,Mobilising,Ignoring,Demonstrative
+  d3: Base,Creative,Mobilising,Demonstrative | Role,Vulnerable,Suggestive,Ignoring (Pronounced / Subtle)
+  d4: Base,Role,Vulnerable,Mobilising | Creative,Suggestive,Ignoring,Demonstrative
+  d5: Base,Role,Suggestive,Demonstrative | Creative,Vulnerable,Mobilising,Ignoring
+  d6: Base,Vulnerable,Ignoring,Demonstrative | Creative,Role,Suggestive,Mobilising (Tensioned / Relaxed)
+  d7: Base,Suggestive,Mobilising,Ignoring | Creative,Role,Vulnerable,Demonstrative
+
+System 20
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Ignoring
+  100 -> Vulnerable
+  101 -> Suggestive
+  110 -> Demonstrative
+  111 -> Mobilising
+Dichotomies:
+  d1: Base,Creative,Role,Ignoring | Vulnerable,Suggestive,Mobilising,Demonstrative
+  d2: Base,Creative,Vulnerable,Suggestive | Role,Mobilising,Ignoring,Demonstrative
+  d3: Base,Creative,Mobilising,Demonstrative | Role,Vulnerable,Suggestive,Ignoring (Pronounced / Subtle)
+  d4: Base,Role,Vulnerable,Demonstrative | Creative,Suggestive,Mobilising,Ignoring
+  d5: Base,Role,Suggestive,Mobilising | Creative,Vulnerable,Ignoring,Demonstrative
+  d6: Base,Vulnerable,Mobilising,Ignoring | Creative,Role,Suggestive,Demonstrative (Inert / Contact)
+  d7: Base,Suggestive,Ignoring,Demonstrative | Creative,Role,Vulnerable,Mobilising
+
+System 21
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Ignoring
+  100 -> Vulnerable
+  101 -> Mobilising
+  110 -> Suggestive
+  111 -> Demonstrative
+Dichotomies:
+  d1: Base,Creative,Role,Ignoring | Vulnerable,Suggestive,Mobilising,Demonstrative
+  d2: Base,Creative,Vulnerable,Mobilising | Role,Suggestive,Ignoring,Demonstrative
+  d3: Base,Creative,Suggestive,Demonstrative | Role,Vulnerable,Mobilising,Ignoring (Energetic / Informational)
+  d4: Base,Role,Vulnerable,Suggestive | Creative,Mobilising,Ignoring,Demonstrative
+  d5: Base,Role,Mobilising,Demonstrative | Creative,Vulnerable,Suggestive,Ignoring (Bold / Cautious)
+  d6: Base,Vulnerable,Ignoring,Demonstrative | Creative,Role,Suggestive,Mobilising (Tensioned / Relaxed)
+  d7: Base,Suggestive,Mobilising,Ignoring | Creative,Role,Vulnerable,Demonstrative
+
+System 22
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Ignoring
+  100 -> Vulnerable
+  101 -> Mobilising
+  110 -> Demonstrative
+  111 -> Suggestive
+Dichotomies:
+  d1: Base,Creative,Role,Ignoring | Vulnerable,Suggestive,Mobilising,Demonstrative
+  d2: Base,Creative,Vulnerable,Mobilising | Role,Suggestive,Ignoring,Demonstrative
+  d3: Base,Creative,Suggestive,Demonstrative | Role,Vulnerable,Mobilising,Ignoring (Energetic / Informational)
+  d4: Base,Role,Vulnerable,Demonstrative | Creative,Suggestive,Mobilising,Ignoring
+  d5: Base,Role,Suggestive,Mobilising | Creative,Vulnerable,Ignoring,Demonstrative
+  d6: Base,Vulnerable,Suggestive,Ignoring | Creative,Role,Mobilising,Demonstrative
+  d7: Base,Mobilising,Ignoring,Demonstrative | Creative,Role,Vulnerable,Suggestive
+
+System 23
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Ignoring
+  100 -> Vulnerable
+  101 -> Demonstrative
+  110 -> Suggestive
+  111 -> Mobilising
+Dichotomies:
+  d1: Base,Creative,Role,Ignoring | Vulnerable,Suggestive,Mobilising,Demonstrative
+  d2: Base,Creative,Vulnerable,Demonstrative | Role,Suggestive,Mobilising,Ignoring
+  d3: Base,Creative,Suggestive,Mobilising | Role,Vulnerable,Ignoring,Demonstrative (Valued / Subdued)
+  d4: Base,Role,Vulnerable,Suggestive | Creative,Mobilising,Ignoring,Demonstrative
+  d5: Base,Role,Mobilising,Demonstrative | Creative,Vulnerable,Suggestive,Ignoring (Bold / Cautious)
+  d6: Base,Vulnerable,Mobilising,Ignoring | Creative,Role,Suggestive,Demonstrative (Inert / Contact)
+  d7: Base,Suggestive,Ignoring,Demonstrative | Creative,Role,Vulnerable,Mobilising
+
+System 24
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Ignoring
+  100 -> Vulnerable
+  101 -> Demonstrative
+  110 -> Mobilising
+  111 -> Suggestive
+Dichotomies:
+  d1: Base,Creative,Role,Ignoring | Vulnerable,Suggestive,Mobilising,Demonstrative
+  d2: Base,Creative,Vulnerable,Demonstrative | Role,Suggestive,Mobilising,Ignoring
+  d3: Base,Creative,Suggestive,Mobilising | Role,Vulnerable,Ignoring,Demonstrative (Valued / Subdued)
+  d4: Base,Role,Vulnerable,Mobilising | Creative,Suggestive,Ignoring,Demonstrative
+  d5: Base,Role,Suggestive,Demonstrative | Creative,Vulnerable,Mobilising,Ignoring
+  d6: Base,Vulnerable,Suggestive,Ignoring | Creative,Role,Mobilising,Demonstrative
+  d7: Base,Mobilising,Ignoring,Demonstrative | Creative,Role,Vulnerable,Suggestive
+
+System 25
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Demonstrative
+  100 -> Vulnerable
+  101 -> Suggestive
+  110 -> Mobilising
+  111 -> Ignoring
+Dichotomies:
+  d1: Base,Creative,Role,Demonstrative | Vulnerable,Suggestive,Mobilising,Ignoring
+  d2: Base,Creative,Vulnerable,Suggestive | Role,Mobilising,Ignoring,Demonstrative
+  d3: Base,Creative,Mobilising,Ignoring | Role,Vulnerable,Suggestive,Demonstrative (Excitable / Inhibitable)
+  d4: Base,Role,Vulnerable,Mobilising | Creative,Suggestive,Ignoring,Demonstrative
+  d5: Base,Role,Suggestive,Ignoring | Creative,Vulnerable,Mobilising,Demonstrative (Accepting / Producing)
+  d6: Base,Vulnerable,Ignoring,Demonstrative | Creative,Role,Suggestive,Mobilising (Tensioned / Relaxed)
+  d7: Base,Suggestive,Mobilising,Demonstrative | Creative,Role,Vulnerable,Ignoring
+
+System 26
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Demonstrative
+  100 -> Vulnerable
+  101 -> Suggestive
+  110 -> Ignoring
+  111 -> Mobilising
+Dichotomies:
+  d1: Base,Creative,Role,Demonstrative | Vulnerable,Suggestive,Mobilising,Ignoring
+  d2: Base,Creative,Vulnerable,Suggestive | Role,Mobilising,Ignoring,Demonstrative
+  d3: Base,Creative,Mobilising,Ignoring | Role,Vulnerable,Suggestive,Demonstrative (Excitable / Inhibitable)
+  d4: Base,Role,Vulnerable,Ignoring | Creative,Suggestive,Mobilising,Demonstrative
+  d5: Base,Role,Suggestive,Mobilising | Creative,Vulnerable,Ignoring,Demonstrative
+  d6: Base,Vulnerable,Mobilising,Demonstrative | Creative,Role,Suggestive,Ignoring
+  d7: Base,Suggestive,Ignoring,Demonstrative | Creative,Role,Vulnerable,Mobilising
+
+System 27
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Demonstrative
+  100 -> Vulnerable
+  101 -> Mobilising
+  110 -> Suggestive
+  111 -> Ignoring
+Dichotomies:
+  d1: Base,Creative,Role,Demonstrative | Vulnerable,Suggestive,Mobilising,Ignoring
+  d2: Base,Creative,Vulnerable,Mobilising | Role,Suggestive,Ignoring,Demonstrative
+  d3: Base,Creative,Suggestive,Ignoring | Role,Vulnerable,Mobilising,Demonstrative
+  d4: Base,Role,Vulnerable,Suggestive | Creative,Mobilising,Ignoring,Demonstrative
+  d5: Base,Role,Mobilising,Ignoring | Creative,Vulnerable,Suggestive,Demonstrative
+  d6: Base,Vulnerable,Ignoring,Demonstrative | Creative,Role,Suggestive,Mobilising (Tensioned / Relaxed)
+  d7: Base,Suggestive,Mobilising,Demonstrative | Creative,Role,Vulnerable,Ignoring
+
+System 28
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Demonstrative
+  100 -> Vulnerable
+  101 -> Mobilising
+  110 -> Ignoring
+  111 -> Suggestive
+Dichotomies:
+  d1: Base,Creative,Role,Demonstrative | Vulnerable,Suggestive,Mobilising,Ignoring
+  d2: Base,Creative,Vulnerable,Mobilising | Role,Suggestive,Ignoring,Demonstrative
+  d3: Base,Creative,Suggestive,Ignoring | Role,Vulnerable,Mobilising,Demonstrative
+  d4: Base,Role,Vulnerable,Ignoring | Creative,Suggestive,Mobilising,Demonstrative
+  d5: Base,Role,Suggestive,Mobilising | Creative,Vulnerable,Ignoring,Demonstrative
+  d6: Base,Vulnerable,Suggestive,Demonstrative | Creative,Role,Mobilising,Ignoring (Evaluatory / Situational)
+  d7: Base,Mobilising,Ignoring,Demonstrative | Creative,Role,Vulnerable,Suggestive
+
+System 29
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Demonstrative
+  100 -> Vulnerable
+  101 -> Ignoring
+  110 -> Suggestive
+  111 -> Mobilising
+Dichotomies:
+  d1: Base,Creative,Role,Demonstrative | Vulnerable,Suggestive,Mobilising,Ignoring
+  d2: Base,Creative,Vulnerable,Ignoring | Role,Suggestive,Mobilising,Demonstrative
+  d3: Base,Creative,Suggestive,Mobilising | Role,Vulnerable,Ignoring,Demonstrative (Valued / Subdued)
+  d4: Base,Role,Vulnerable,Suggestive | Creative,Mobilising,Ignoring,Demonstrative
+  d5: Base,Role,Mobilising,Ignoring | Creative,Vulnerable,Suggestive,Demonstrative
+  d6: Base,Vulnerable,Mobilising,Demonstrative | Creative,Role,Suggestive,Ignoring
+  d7: Base,Suggestive,Ignoring,Demonstrative | Creative,Role,Vulnerable,Mobilising
+
+System 30
+Coordinate assignment:
+  000 -> Base
+  001 -> Creative
+  010 -> Role
+  011 -> Demonstrative
+  100 -> Vulnerable
+  101 -> Ignoring
+  110 -> Mobilising
+  111 -> Suggestive
+Dichotomies:
+  d1: Base,Creative,Role,Demonstrative | Vulnerable,Suggestive,Mobilising,Ignoring
+  d2: Base,Creative,Vulnerable,Ignoring | Role,Suggestive,Mobilising,Demonstrative
+  d3: Base,Creative,Suggestive,Mobilising | Role,Vulnerable,Ignoring,Demonstrative (Valued / Subdued)
+  d4: Base,Role,Vulnerable,Mobilising | Creative,Suggestive,Ignoring,Demonstrative
+  d5: Base,Role,Suggestive,Ignoring | Creative,Vulnerable,Mobilising,Demonstrative (Accepting / Producing)
+  d6: Base,Vulnerable,Suggestive,Demonstrative | Creative,Role,Mobilising,Ignoring (Evaluatory / Situational)
+  d7: Base,Mobilising,Ignoring,Demonstrative | Creative,Role,Vulnerable,Suggestive
+
