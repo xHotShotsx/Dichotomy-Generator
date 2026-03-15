@@ -1,0 +1,1155 @@
+Compare lines: [2808, 2229, 426, 5098, 5279, 4430, 4111]
+Passed: 128 / 6435
+
+PASS line 1: ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,EIE,LSI,SEE,ILI,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,SLE,IEI,SEE,ILI,LSE,EII
+  XOR with line 426 -> (not in 6435 list): EIE,LSI,SLE,IEI,SEE,ILI,LIE,ESI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LSI,SLE,ILI,LIE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,EIE,IEI,ILI,LIE,LSE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,EIE,SLE,ILI,ESI,LSE,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,LSI,IEI,ILI,ESI,EII,SLI
+
+PASS line 8: ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,EIE,LSI,IEI,SEE,ILI,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,SLE,SEE,ILI,LSE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): EIE,LSI,SLE,SEE,ILI,LIE,ESI,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LSI,SLE,IEI,ILI,LIE,EII
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,EIE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,EIE,SLE,IEI,ILI,ESI,LSE
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,LSI,ILI,ESI,EII,IEE,SLI
+
+PASS line 17: ILE,SEI,ESE,LII,EIE,LSI,IEI,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,SEE,ILI,IEE
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,IEI,SEE,ILI,LSE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): EIE,LSI,IEI,SEE,ILI,LIE,ESI,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LSI,ILI,LIE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,EIE,SLE,IEI,ILI,LIE,LSE
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,EIE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,LSI,SLE,IEI,ILI,ESI,EII
+
+PASS line 45: ILE,SEI,ESE,LII,EIE,LSI,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,IEI,SEE,ILI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,SEE,ILI,LSE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): EIE,LSI,SEE,ILI,LIE,ESI,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LSI,IEI,ILI,LIE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,EIE,SLE,ILI,LIE,LSE,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,EIE,IEI,ILI,ESI,LSE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,LSI,SLE,ILI,ESI,EII,IEE
+
+PASS line 50: ILE,SEI,ESE,LII,EIE,SLE,IEI,LSE
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,EIE,SEE,ILI,LSE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,LSI,SLE,IEI,SEE,ILI,EII
+  XOR with line 426 -> (not in 6435 list): EIE,SLE,IEI,SEE,ILI,LIE,ESI,LSE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,SLE,ILI,LIE,LSE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,EIE,LSI,IEI,ILI,LIE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,ILI,ESI,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,IEI,ILI,ESI,LSE,EII,SLI
+
+PASS line 77: ILE,SEI,ESE,LII,EIE,SLE,LSE,IEE
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,EIE,IEI,SEE,ILI,LSE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,LSI,SLE,SEE,ILI,EII,IEE
+  XOR with line 426 -> (not in 6435 list): EIE,SLE,SEE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,SLE,IEI,ILI,LIE,LSE,EII
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,EIE,LSI,ILI,LIE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,IEI,ILI,ESI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,ILI,ESI,LSE,EII,IEE,SLI
+
+PASS line 106: ILE,SEI,ESE,LII,EIE,IEI,LSE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,EIE,SLE,SEE,ILI,LSE,IEE
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,LSI,IEI,SEE,ILI,EII,SLI
+  XOR with line 426 -> (not in 6435 list): EIE,IEI,SEE,ILI,LIE,ESI,LSE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,IEI,ILI,LIE
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,EIE,LSI,ILI,ESI,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,SLE,IEI,ILI,ESI,LSE,EII
+
+PASS line 164: ILE,SEI,ESE,LII,EIE,LSE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,EIE,SLE,IEI,SEE,ILI,LSE
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,LSI,SEE,ILI,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): EIE,SEE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,IEI,ILI,LIE,LSE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,ILI,LIE,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,EIE,LSI,IEI,ILI,ESI,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,SLE,ILI,ESI,LSE,EII,IEE
+
+PASS line 171: ILE,SEI,ESE,LII,LSI,SLE,IEI,EII
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,LSI,SEE,ILI,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,EIE,SLE,IEI,SEE,ILI,LSE
+  XOR with line 426 -> (not in 6435 list): LSI,SLE,IEI,SEE,ILI,LIE,ESI,EII
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,ILI,LIE,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,IEI,ILI,LIE,LSE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,SLE,ILI,ESI,LSE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,EIE,LSI,IEI,ILI,ESI,SLI
+
+PASS line 199: ILE,SEI,ESE,LII,LSI,SLE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,LSI,IEI,SEE,ILI,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,EIE,SLE,SEE,ILI,LSE,IEE
+  XOR with line 426 -> (not in 6435 list): LSI,SLE,SEE,ILI,LIE,ESI,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,IEI,ILI,LIE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,SLE,IEI,ILI,ESI,LSE,EII
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,EIE,LSI,ILI,ESI,IEE,SLI
+
+PASS line 228: ILE,SEI,ESE,LII,LSI,IEI,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,LSI,SLE,SEE,ILI,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,EIE,IEI,SEE,ILI,LSE,SLI
+  XOR with line 426 -> (not in 6435 list): LSI,IEI,SEE,ILI,LIE,ESI,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,EIE,LSI,ILI,LIE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,SLE,IEI,ILI,LIE,LSE,EII
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,IEI,ILI,ESI
+
+PASS line 285: ILE,SEI,ESE,LII,LSI,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,LSI,SLE,IEI,SEE,ILI,EII
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,EIE,SEE,ILI,LSE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): LSI,SEE,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,EIE,LSI,IEI,ILI,LIE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,SLE,ILI,LIE,LSE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,IEI,ILI,ESI,LSE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,ILI,ESI,IEE
+
+PASS line 308: ILE,SEI,ESE,LII,SLE,IEI,LSE,EII
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,SEE,ILI,LSE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,IEI,SEE,ILI
+  XOR with line 426 -> (not in 6435 list): SLE,IEI,SEE,ILI,LIE,ESI,LSE,EII
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,EIE,SLE,ILI,LIE,LSE,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LSI,IEI,ILI,LIE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,LSI,SLE,ILI,ESI,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,EIE,IEI,ILI,ESI,LSE,SLI
+
+PASS line 366: ILE,SEI,ESE,LII,SLE,LSE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,IEI,SEE,ILI,LSE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,SEE,ILI,IEE
+  XOR with line 426 -> (not in 6435 list): SLE,SEE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,EIE,SLE,IEI,ILI,LIE,LSE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LSI,ILI,LIE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,LSI,SLE,IEI,ILI,ESI,EII
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,EIE,ILI,ESI,LSE,IEE,SLI
+
+PASS line 423: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,SLE,SEE,ILI,LSE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,EIE,LSI,IEI,SEE,ILI,SLI
+  XOR with line 426 -> (not in 6435 list): IEI,SEE,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,EIE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LSI,SLE,IEI,ILI,LIE,EII
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,LSI,ILI,ESI,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,EIE,SLE,IEI,ILI,ESI,LSE
+
+PASS line 495: ILE,SEI,ESE,LII,LSE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LII,SLE,IEI,SEE,ILI,LSE,EII
+  XOR with line 2229 -> (not in 6435 list): ESE,LII,EIE,LSI,SEE,ILI,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEE,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,EIE,IEI,ILI,LIE,LSE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LSI,SLE,ILI,LIE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,LII,LSI,IEI,ILI,ESI,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LII,EIE,SLE,ILI,ESI,LSE,IEE
+
+PASS line 498: ILE,SEI,ESE,EIE,LSI,SLE,IEI,LIE
+  XOR with line 2808 -> (not in 6435 list): ESE,EIE,LSI,SEE,ILI,LIE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,SLE,IEI,SEE,ILI,LIE,LSE,EII
+  XOR with line 426 -> (not in 6435 list): LII,EIE,LSI,SLE,IEI,SEE,ILI,ESI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,ILI,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,EIE,IEI,ILI,LSE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,EIE,SLE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,LSI,IEI,ILI,LIE,ESI,EII,SLI
+
+PASS line 520: ILE,SEI,ESE,EIE,LSI,SLE,LIE,IEE
+  XOR with line 2808 -> (not in 6435 list): ESE,EIE,LSI,IEI,SEE,ILI,LIE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,SLE,SEE,ILI,LIE,LSE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): LII,EIE,LSI,SLE,SEE,ILI,ESI,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,IEI,ILI,EII
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,EIE,ILI,LSE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,EIE,SLE,IEI,ILI,LIE,ESI,LSE
+  XOR with line 4111 -> (not in 6435 list): SEI,LSI,ILI,LIE,ESI,EII,IEE,SLI
+
+PASS line 549: ILE,SEI,ESE,EIE,LSI,IEI,LIE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,EIE,LSI,SLE,SEE,ILI,LIE,IEE
+  XOR with line 2229 -> (not in 6435 list): ESE,IEI,SEE,ILI,LIE,LSE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): LII,EIE,LSI,IEI,SEE,ILI,ESI,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,LSI,ILI,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,IEI,ILI,LSE
+  XOR with line 4430 -> (not in 6435 list): SEI,EIE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LSI,SLE,IEI,ILI,LIE,ESI,EII
+
+PASS line 605: ILE,SEI,ESE,EIE,LSI,LIE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,EIE,LSI,SLE,IEI,SEE,ILI,LIE
+  XOR with line 2229 -> (not in 6435 list): ESE,SEE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): LII,EIE,LSI,SEE,ILI,ESI,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,LSI,IEI,ILI,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,ILI,LSE,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,EIE,IEI,ILI,LIE,ESI,LSE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,LSI,SLE,ILI,LIE,ESI,EII,IEE
+
+PASS line 630: ILE,SEI,ESE,EIE,SLE,IEI,LIE,LSE
+  XOR with line 2808 -> (not in 6435 list): ESE,EIE,SEE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LSI,SLE,IEI,SEE,ILI,LIE,EII
+  XOR with line 426 -> (not in 6435 list): LII,EIE,SLE,IEI,SEE,ILI,ESI,LSE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,SLE,ILI,LSE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,IEI,ILI,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,EIE,LSI,SLE,ILI,LIE,ESI,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,IEI,ILI,LIE,ESI,LSE,EII,SLI
+
+PASS line 685: ILE,SEI,ESE,EIE,SLE,LIE,LSE,IEE
+  XOR with line 2808 -> (not in 6435 list): ESE,EIE,IEI,SEE,ILI,LIE,LSE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,LSI,SLE,SEE,ILI,LIE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): LII,EIE,SLE,SEE,ILI,ESI,LSE,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,SLE,IEI,ILI,LSE,EII
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,ILI,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,EIE,LSI,SLE,IEI,ILI,LIE,ESI
+  XOR with line 4111 -> (not in 6435 list): SEI,ILI,LIE,ESI,LSE,EII,IEE,SLI
+
+PASS line 742: ILE,SEI,ESE,EIE,IEI,LIE,LSE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,EIE,SLE,SEE,ILI,LIE,LSE,IEE
+  XOR with line 2229 -> (not in 6435 list): ESE,LSI,IEI,SEE,ILI,LIE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): LII,EIE,IEI,SEE,ILI,ESI,LSE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,ILI,LSE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,IEI,ILI
+  XOR with line 4430 -> (not in 6435 list): SEI,EIE,LSI,ILI,LIE,ESI,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,SLE,IEI,ILI,LIE,ESI,LSE,EII
+
+PASS line 819: ILE,SEI,ESE,EIE,LIE,LSE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,EIE,SLE,IEI,SEE,ILI,LIE,LSE
+  XOR with line 2229 -> (not in 6435 list): ESE,LSI,SEE,ILI,LIE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): LII,EIE,SEE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,IEI,ILI,LSE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,ILI,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,EIE,LSI,IEI,ILI,LIE,ESI,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,SLE,ILI,LIE,ESI,LSE,EII,IEE
+
+PASS line 841: ILE,SEI,ESE,LSI,SLE,IEI,LIE,EII
+  XOR with line 2808 -> (not in 6435 list): ESE,LSI,SEE,ILI,LIE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,EIE,SLE,IEI,SEE,ILI,LIE,LSE
+  XOR with line 426 -> (not in 6435 list): LII,LSI,SLE,IEI,SEE,ILI,ESI,EII
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,ILI,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,IEI,ILI,LSE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,SLE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,EIE,LSI,IEI,ILI,LIE,ESI,SLI
+
+PASS line 897: ILE,SEI,ESE,LSI,SLE,LIE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): ESE,LSI,IEI,SEE,ILI,LIE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,EIE,SLE,SEE,ILI,LIE,LSE,IEE
+  XOR with line 426 -> (not in 6435 list): LII,LSI,SLE,SEE,ILI,ESI,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,IEI,ILI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,ILI,LSE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,SLE,IEI,ILI,LIE,ESI,LSE,EII
+  XOR with line 4111 -> (not in 6435 list): SEI,EIE,LSI,ILI,LIE,ESI,IEE,SLI
+
+PASS line 954: ILE,SEI,ESE,LSI,IEI,LIE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LSI,SLE,SEE,ILI,LIE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): ESE,EIE,IEI,SEE,ILI,LIE,LSE,SLI
+  XOR with line 426 -> (not in 6435 list): LII,LSI,IEI,SEE,ILI,ESI,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,ILI,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,SLE,IEI,ILI,LSE,EII
+  XOR with line 4430 -> (not in 6435 list): SEI,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,EIE,LSI,SLE,IEI,ILI,LIE,ESI
+
+PASS line 1030: ILE,SEI,ESE,LSI,LIE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,LSI,SLE,IEI,SEE,ILI,LIE,EII
+  XOR with line 2229 -> (not in 6435 list): ESE,EIE,SEE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): LII,LSI,SEE,ILI,ESI,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,IEI,ILI,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,SLE,ILI,LSE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,IEI,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,EIE,LSI,SLE,ILI,LIE,ESI,IEE
+
+PASS line 1076: ILE,SEI,ESE,SLE,IEI,LIE,LSE,EII
+  XOR with line 2808 -> (not in 6435 list): ESE,SEE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,EIE,LSI,SLE,IEI,SEE,ILI,LIE
+  XOR with line 426 -> (not in 6435 list): LII,SLE,IEI,SEE,ILI,ESI,LSE,EII
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,ILI,LSE,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,LSI,IEI,ILI,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LSI,SLE,ILI,LIE,ESI,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,EIE,IEI,ILI,LIE,ESI,LSE,SLI
+
+PASS line 1153: ILE,SEI,ESE,SLE,LIE,LSE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): ESE,IEI,SEE,ILI,LIE,LSE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): ESE,EIE,LSI,SLE,SEE,ILI,LIE,IEE
+  XOR with line 426 -> (not in 6435 list): LII,SLE,SEE,ILI,ESI,LSE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,IEI,ILI,LSE
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,LSI,ILI,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,LSI,SLE,IEI,ILI,LIE,ESI,EII
+  XOR with line 4111 -> (not in 6435 list): SEI,EIE,ILI,LIE,ESI,LSE,IEE,SLI
+
+PASS line 1224: ILE,SEI,ESE,IEI,LIE,LSE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,SLE,SEE,ILI,LIE,LSE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): ESE,EIE,LSI,IEI,SEE,ILI,LIE,SLI
+  XOR with line 426 -> (not in 6435 list): LII,IEI,SEE,ILI,ESI,LSE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,EIE,ILI,LSE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,IEI,ILI,EII
+  XOR with line 4430 -> (not in 6435 list): SEI,LSI,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,EIE,SLE,IEI,ILI,LIE,ESI,LSE
+
+PASS line 1286: ILE,SEI,ESE,LIE,LSE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): ESE,SLE,IEI,SEE,ILI,LIE,LSE,EII
+  XOR with line 2229 -> (not in 6435 list): ESE,EIE,LSI,SEE,ILI,LIE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): LII,SEE,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ESE,LII,EIE,IEI,ILI,LSE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,ILI,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,LSI,IEI,ILI,LIE,ESI,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,EIE,SLE,ILI,LIE,ESI,LSE,IEE
+
+PASS line 1291: ILE,SEI,LII,EIE,LSI,SLE,IEI,ESI
+  XOR with line 2808 -> (not in 6435 list): LII,EIE,LSI,SEE,ILI,ESI,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): LII,SLE,IEI,SEE,ILI,ESI,LSE,EII
+  XOR with line 426 -> (not in 6435 list): ESE,EIE,LSI,SLE,IEI,SEE,ILI,LIE
+  XOR with line 5098 -> (not in 6435 list): SEI,LSI,SLE,ILI,LIE,ESI,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,EIE,IEI,ILI,LIE,ESI,LSE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,ILI,LSE,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,LSI,IEI,ILI,EII,SLI
+
+PASS line 1316: ILE,SEI,LII,EIE,LSI,SLE,ESI,IEE
+  XOR with line 2808 -> (not in 6435 list): LII,EIE,LSI,IEI,SEE,ILI,ESI,SLI
+  XOR with line 2229 -> (not in 6435 list): LII,SLE,SEE,ILI,ESI,LSE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): ESE,EIE,LSI,SLE,SEE,ILI,LIE,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,LSI,SLE,IEI,ILI,LIE,ESI,EII
+  XOR with line 5279 -> (not in 6435 list): SEI,EIE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,IEI,ILI,LSE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,LSI,ILI,EII,IEE,SLI
+
+PASS line 1345: ILE,SEI,LII,EIE,LSI,IEI,ESI,SLI
+  XOR with line 2808 -> (not in 6435 list): LII,EIE,LSI,SLE,SEE,ILI,ESI,IEE
+  XOR with line 2229 -> (not in 6435 list): LII,IEI,SEE,ILI,ESI,LSE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,EIE,LSI,IEI,SEE,ILI,LIE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LSI,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,EIE,SLE,IEI,ILI,LIE,ESI,LSE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,EIE,ILI,LSE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,IEI,ILI,EII
+
+PASS line 1403: ILE,SEI,LII,EIE,LSI,ESI,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): LII,EIE,LSI,SLE,IEI,SEE,ILI,ESI
+  XOR with line 2229 -> (not in 6435 list): LII,SEE,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,EIE,LSI,SEE,ILI,LIE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LSI,IEI,ILI,LIE,ESI,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,EIE,SLE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,EIE,IEI,ILI,LSE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,ILI,EII,IEE
+
+PASS line 1426: ILE,SEI,LII,EIE,SLE,IEI,ESI,LSE
+  XOR with line 2808 -> (not in 6435 list): LII,EIE,SEE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): LII,LSI,SLE,IEI,SEE,ILI,ESI,EII
+  XOR with line 426 -> (not in 6435 list): ESE,EIE,SLE,IEI,SEE,ILI,LIE,LSE
+  XOR with line 5098 -> (not in 6435 list): SEI,SLE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,EIE,LSI,IEI,ILI,LIE,ESI,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,ILI,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,IEI,ILI,LSE,EII,SLI
+
+PASS line 1483: ILE,SEI,LII,EIE,SLE,ESI,LSE,IEE
+  XOR with line 2808 -> (not in 6435 list): LII,EIE,IEI,SEE,ILI,ESI,LSE,SLI
+  XOR with line 2229 -> (not in 6435 list): LII,LSI,SLE,SEE,ILI,ESI,EII,IEE
+  XOR with line 426 -> (not in 6435 list): ESE,EIE,SLE,SEE,ILI,LIE,LSE,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,SLE,IEI,ILI,LIE,ESI,LSE,EII
+  XOR with line 5279 -> (not in 6435 list): SEI,EIE,LSI,ILI,LIE,ESI,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,IEI,ILI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,ILI,LSE,EII,IEE,SLI
+
+PASS line 1540: ILE,SEI,LII,EIE,IEI,ESI,LSE,SLI
+  XOR with line 2808 -> (not in 6435 list): LII,EIE,SLE,SEE,ILI,ESI,LSE,IEE
+  XOR with line 2229 -> (not in 6435 list): LII,LSI,IEI,SEE,ILI,ESI,EII,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,EIE,IEI,SEE,ILI,LIE,LSE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,EIE,LSI,SLE,IEI,ILI,LIE,ESI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,ILI,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,SLE,IEI,ILI,LSE,EII
+
+PASS line 1615: ILE,SEI,LII,EIE,ESI,LSE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): LII,EIE,SLE,IEI,SEE,ILI,ESI,LSE
+  XOR with line 2229 -> (not in 6435 list): LII,LSI,SEE,ILI,ESI,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,EIE,SEE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,IEI,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,EIE,LSI,SLE,ILI,LIE,ESI,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,IEI,ILI,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,SLE,ILI,LSE,EII,IEE
+
+PASS line 1637: ILE,SEI,LII,LSI,SLE,IEI,ESI,EII
+  XOR with line 2808 -> (not in 6435 list): LII,LSI,SEE,ILI,ESI,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): LII,EIE,SLE,IEI,SEE,ILI,ESI,LSE
+  XOR with line 426 -> (not in 6435 list): ESE,LSI,SLE,IEI,SEE,ILI,LIE,EII
+  XOR with line 5098 -> (not in 6435 list): SEI,EIE,LSI,SLE,ILI,LIE,ESI,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,IEI,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,SLE,ILI,LSE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,IEI,ILI,SLI
+
+PASS line 1695: ILE,SEI,LII,LSI,SLE,ESI,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): LII,LSI,IEI,SEE,ILI,ESI,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): LII,EIE,SLE,SEE,ILI,ESI,LSE,IEE
+  XOR with line 426 -> (not in 6435 list): ESE,LSI,SLE,SEE,ILI,LIE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,EIE,LSI,SLE,IEI,ILI,LIE,ESI
+  XOR with line 5279 -> (not in 6435 list): SEI,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,SLE,IEI,ILI,LSE,EII
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,ILI,IEE,SLI
+
+PASS line 1752: ILE,SEI,LII,LSI,IEI,ESI,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): LII,LSI,SLE,SEE,ILI,ESI,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): LII,EIE,IEI,SEE,ILI,ESI,LSE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LSI,IEI,SEE,ILI,LIE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,EIE,LSI,ILI,LIE,ESI,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,SLE,IEI,ILI,LIE,ESI,LSE,EII
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,ILI,LSE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,IEI,ILI
+
+PASS line 1826: ILE,SEI,LII,LSI,ESI,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): LII,LSI,SLE,IEI,SEE,ILI,ESI,EII
+  XOR with line 2229 -> (not in 6435 list): LII,EIE,SEE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LSI,SEE,ILI,LIE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,EIE,LSI,IEI,ILI,LIE,ESI,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,SLE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,IEI,ILI,LSE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,ILI,IEE
+
+PASS line 1874: ILE,SEI,LII,SLE,IEI,ESI,LSE,EII
+  XOR with line 2808 -> (not in 6435 list): LII,SEE,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): LII,EIE,LSI,SLE,IEI,SEE,ILI,ESI
+  XOR with line 426 -> (not in 6435 list): ESE,SLE,IEI,SEE,ILI,LIE,LSE,EII
+  XOR with line 5098 -> (not in 6435 list): SEI,EIE,SLE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,LSI,IEI,ILI,LIE,ESI,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,ILI,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,EIE,IEI,ILI,LSE,SLI
+
+PASS line 1949: ILE,SEI,LII,SLE,ESI,LSE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): LII,IEI,SEE,ILI,ESI,LSE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): LII,EIE,LSI,SLE,SEE,ILI,ESI,IEE
+  XOR with line 426 -> (not in 6435 list): ESE,SLE,SEE,ILI,LIE,LSE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,EIE,SLE,IEI,ILI,LIE,ESI,LSE
+  XOR with line 5279 -> (not in 6435 list): SEI,LSI,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,IEI,ILI,EII
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,EIE,ILI,LSE,IEE,SLI
+
+PASS line 2020: ILE,SEI,LII,IEI,ESI,LSE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): LII,SLE,SEE,ILI,ESI,LSE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): LII,EIE,LSI,IEI,SEE,ILI,ESI,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,IEI,SEE,ILI,LIE,LSE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,EIE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LSI,SLE,IEI,ILI,LIE,ESI,EII
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,LSI,ILI,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,IEI,ILI,LSE
+
+PASS line 2079: ILE,SEI,LII,ESI,LSE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): LII,SLE,IEI,SEE,ILI,ESI,LSE,EII
+  XOR with line 2229 -> (not in 6435 list): LII,EIE,LSI,SEE,ILI,ESI,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,SEE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,EIE,IEI,ILI,LIE,ESI,LSE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LSI,SLE,ILI,LIE,ESI,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LII,LSI,IEI,ILI,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,ILI,LSE,IEE
+
+PASS line 2093: ILE,SEI,EIE,LSI,SLE,IEI,LIE,ESI
+  XOR with line 2808 -> (not in 6435 list): EIE,LSI,SEE,ILI,LIE,ESI,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SLE,IEI,SEE,ILI,LIE,ESI,LSE,EII
+  XOR with line 426 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,IEI,SEE,ILI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,LSI,SLE,ILI,ESI,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,EIE,IEI,ILI,ESI,LSE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,EIE,SLE,ILI,LIE,LSE,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LSI,IEI,ILI,LIE,EII,SLI
+
+PASS line 2146: ILE,SEI,EIE,LSI,SLE,LIE,ESI,IEE
+  XOR with line 2808 -> (not in 6435 list): EIE,LSI,IEI,SEE,ILI,LIE,ESI,SLI
+  XOR with line 2229 -> (not in 6435 list): SLE,SEE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,SEE,ILI,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,LSI,SLE,IEI,ILI,ESI,EII
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,EIE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,EIE,SLE,IEI,ILI,LIE,LSE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LSI,ILI,LIE,EII,IEE,SLI
+
+PASS line 2203: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI
+  XOR with line 2808 -> (not in 6435 list): EIE,LSI,SLE,SEE,ILI,LIE,ESI,IEE
+  XOR with line 2229 -> (not in 6435 list): IEI,SEE,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,EIE,LSI,IEI,SEE,ILI,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,LSI,ILI,ESI,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,EIE,SLE,IEI,ILI,ESI,LSE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,EIE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LSI,SLE,IEI,ILI,LIE,EII
+
+PASS line 2280: ILE,SEI,EIE,LSI,LIE,ESI,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): EIE,LSI,SLE,IEI,SEE,ILI,LIE,ESI
+  XOR with line 2229 -> (not in 6435 list): SEE,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,EIE,LSI,SEE,ILI,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,LSI,IEI,ILI,ESI,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,EIE,SLE,ILI,ESI,LSE,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,EIE,IEI,ILI,LIE,LSE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,LSI,SLE,ILI,LIE,EII,IEE
+
+PASS line 2326: ILE,SEI,EIE,SLE,IEI,LIE,ESI,LSE
+  XOR with line 2808 -> (not in 6435 list): EIE,SEE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): LSI,SLE,IEI,SEE,ILI,LIE,ESI,EII
+  XOR with line 426 -> (not in 6435 list): ESE,LII,EIE,SLE,IEI,SEE,ILI,LSE
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,SLE,ILI,ESI,LSE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,EIE,LSI,IEI,ILI,ESI,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,ILI,LIE,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,IEI,ILI,LIE,LSE,EII,SLI
+
+PASS line 2402: ILE,SEI,EIE,SLE,LIE,ESI,LSE,IEE
+  XOR with line 2808 -> (not in 6435 list): EIE,IEI,SEE,ILI,LIE,ESI,LSE,SLI
+  XOR with line 2229 -> (not in 6435 list): LSI,SLE,SEE,ILI,LIE,ESI,EII,IEE
+  XOR with line 426 -> (not in 6435 list): ESE,LII,EIE,SLE,SEE,ILI,LSE,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,SLE,IEI,ILI,ESI,LSE,EII
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,EIE,LSI,ILI,ESI,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,IEI,ILI,LIE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,ILI,LIE,LSE,EII,IEE,SLI
+
+PASS line 2473: ILE,SEI,EIE,IEI,LIE,ESI,LSE,SLI
+  XOR with line 2808 -> (not in 6435 list): EIE,SLE,SEE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 2229 -> (not in 6435 list): LSI,IEI,SEE,ILI,LIE,ESI,EII,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,EIE,IEI,SEE,ILI,LSE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,IEI,ILI,ESI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,EIE,LSI,ILI,LIE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,SLE,IEI,ILI,LIE,LSE,EII
+
+PASS line 2538: ILE,SEI,EIE,LIE,ESI,LSE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): EIE,SLE,IEI,SEE,ILI,LIE,ESI,LSE
+  XOR with line 2229 -> (not in 6435 list): LSI,SEE,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,EIE,SEE,ILI,LSE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,IEI,ILI,ESI,LSE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,ILI,ESI,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,EIE,LSI,IEI,ILI,LIE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,SLE,ILI,LIE,LSE,EII,IEE
+
+PASS line 2579: ILE,SEI,LSI,SLE,IEI,LIE,ESI,EII
+  XOR with line 2808 -> (not in 6435 list): LSI,SEE,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): EIE,SLE,IEI,SEE,ILI,LIE,ESI,LSE
+  XOR with line 426 -> (not in 6435 list): ESE,LII,LSI,SLE,IEI,SEE,ILI,EII
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,ILI,ESI,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,IEI,ILI,ESI,LSE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,SLE,ILI,LIE,LSE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,EIE,LSI,IEI,ILI,LIE,SLI
+
+PASS line 2656: ILE,SEI,LSI,SLE,LIE,ESI,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): LSI,IEI,SEE,ILI,LIE,ESI,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): EIE,SLE,SEE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 426 -> (not in 6435 list): ESE,LII,LSI,SLE,SEE,ILI,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,IEI,ILI,ESI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,SLE,IEI,ILI,LIE,LSE,EII
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,EIE,LSI,ILI,LIE,IEE,SLI
+
+PASS line 2727: ILE,SEI,LSI,IEI,LIE,ESI,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): LSI,SLE,SEE,ILI,LIE,ESI,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): EIE,IEI,SEE,ILI,LIE,ESI,LSE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,LSI,IEI,SEE,ILI,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,EIE,LSI,ILI,ESI,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,SLE,IEI,ILI,ESI,LSE,EII
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,IEI,ILI,LIE
+
+PASS line 2791: ILE,SEI,LSI,LIE,ESI,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): LSI,SLE,IEI,SEE,ILI,LIE,ESI,EII
+  XOR with line 2229 -> (not in 6435 list): EIE,SEE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,LSI,SEE,ILI,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,EIE,LSI,IEI,ILI,ESI,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,SLE,ILI,ESI,LSE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,IEI,ILI,LIE,LSE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,ILI,LIE,IEE
+
+PASS line 2849: ILE,SEI,SLE,IEI,LIE,ESI,LSE,EII
+  XOR with line 2808 -> (not in 6435 list): SEE,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): EIE,LSI,SLE,IEI,SEE,ILI,LIE,ESI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,SLE,IEI,SEE,ILI,LSE,EII
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,EIE,SLE,ILI,ESI,LSE,IEE
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,LSI,IEI,ILI,ESI,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LSI,SLE,ILI,LIE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,EIE,IEI,ILI,LIE,LSE,SLI
+
+PASS line 2914: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): IEI,SEE,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): EIE,LSI,SLE,SEE,ILI,LIE,ESI,IEE
+  XOR with line 426 -> (not in 6435 list): ESE,LII,SLE,SEE,ILI,LSE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,EIE,SLE,IEI,ILI,ESI,LSE
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,LSI,ILI,ESI,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LSI,SLE,IEI,ILI,LIE,EII
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,EIE,ILI,LIE,LSE,IEE,SLI
+
+PASS line 2971: ILE,SEI,IEI,LIE,ESI,LSE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SLE,SEE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): EIE,LSI,IEI,SEE,ILI,LIE,ESI,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,IEI,SEE,ILI,LSE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,EIE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,LSI,SLE,IEI,ILI,ESI,EII
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LSI,ILI,LIE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,EIE,SLE,IEI,ILI,LIE,LSE
+
+PASS line 3003: ILE,SEI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SLE,IEI,SEE,ILI,LIE,ESI,LSE,EII
+  XOR with line 2229 -> (not in 6435 list): EIE,LSI,SEE,ILI,LIE,ESI,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): ESE,LII,SEE,ILI,LSE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEI,LII,EIE,IEI,ILI,ESI,LSE,SLI
+  XOR with line 5279 -> (not in 6435 list): SEI,LII,LSI,SLE,ILI,ESI,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): SEI,ESE,LSI,IEI,ILI,LIE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): SEI,ESE,EIE,SLE,ILI,LIE,LSE,IEE
+
+PASS line 3004: ILE,ESE,LII,EIE,LSI,SLE,IEI,SEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,ILI,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,SLE,IEI,ILI,LSE,EII
+  XOR with line 426 -> (not in 6435 list): SEI,EIE,LSI,SLE,IEI,ILI,LIE,ESI
+  XOR with line 5098 -> (not in 6435 list): ESE,LSI,SLE,SEE,ILI,LIE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): ESE,EIE,IEI,SEE,ILI,LIE,LSE,SLI
+  XOR with line 4430 -> (not in 6435 list): LII,EIE,SLE,SEE,ILI,ESI,LSE,IEE
+  XOR with line 4111 -> (not in 6435 list): LII,LSI,IEI,SEE,ILI,ESI,EII,SLI
+
+PASS line 3017: ILE,ESE,LII,EIE,LSI,SLE,SEE,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,IEI,ILI,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,SLE,ILI,LSE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,EIE,LSI,SLE,ILI,LIE,ESI,IEE
+  XOR with line 5098 -> (not in 6435 list): ESE,LSI,SLE,IEI,SEE,ILI,LIE,EII
+  XOR with line 5279 -> (not in 6435 list): ESE,EIE,SEE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): LII,EIE,SLE,IEI,SEE,ILI,ESI,LSE
+  XOR with line 4111 -> (not in 6435 list): LII,LSI,SEE,ILI,ESI,EII,IEE,SLI
+
+PASS line 3046: ILE,ESE,LII,EIE,LSI,IEI,SEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,ILI,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,IEI,ILI,LSE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,EIE,LSI,IEI,ILI,LIE,ESI,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LSI,SEE,ILI,LIE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,EIE,SLE,IEI,SEE,ILI,LIE,LSE
+  XOR with line 4430 -> (not in 6435 list): LII,EIE,SEE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): LII,LSI,SLE,IEI,SEE,ILI,ESI,EII
+
+PASS line 3088: ILE,ESE,LII,EIE,LSI,SEE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,IEI,ILI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,ILI,LSE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,EIE,LSI,ILI,LIE,ESI,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LSI,IEI,SEE,ILI,LIE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,EIE,SLE,SEE,ILI,LIE,LSE,IEE
+  XOR with line 4430 -> (not in 6435 list): LII,EIE,IEI,SEE,ILI,ESI,LSE,SLI
+  XOR with line 4111 -> (not in 6435 list): LII,LSI,SLE,SEE,ILI,ESI,EII,IEE
+
+PASS line 3127: ILE,ESE,LII,EIE,SLE,IEI,SEE,LSE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,EIE,ILI,LSE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,IEI,ILI,EII
+  XOR with line 426 -> (not in 6435 list): SEI,EIE,SLE,IEI,ILI,LIE,ESI,LSE
+  XOR with line 5098 -> (not in 6435 list): ESE,SLE,SEE,ILI,LIE,LSE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): ESE,EIE,LSI,IEI,SEE,ILI,LIE,SLI
+  XOR with line 4430 -> (not in 6435 list): LII,EIE,LSI,SLE,SEE,ILI,ESI,IEE
+  XOR with line 4111 -> (not in 6435 list): LII,IEI,SEE,ILI,ESI,LSE,EII,SLI
+
+PASS line 3168: ILE,ESE,LII,EIE,SLE,SEE,LSE,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,EIE,IEI,ILI,LSE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,ILI,EII,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,EIE,SLE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 5098 -> (not in 6435 list): ESE,SLE,IEI,SEE,ILI,LIE,LSE,EII
+  XOR with line 5279 -> (not in 6435 list): ESE,EIE,LSI,SEE,ILI,LIE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): LII,EIE,LSI,SLE,IEI,SEE,ILI,ESI
+  XOR with line 4111 -> (not in 6435 list): LII,SEE,ILI,ESI,LSE,EII,IEE,SLI
+
+PASS line 3225: ILE,ESE,LII,EIE,IEI,SEE,LSE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,ILI,LSE,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,LSI,IEI,ILI,EII,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,EIE,IEI,ILI,LIE,ESI,LSE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,SEE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,EIE,LSI,SLE,IEI,SEE,ILI,LIE
+  XOR with line 4430 -> (not in 6435 list): LII,EIE,LSI,SEE,ILI,ESI,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): LII,SLE,IEI,SEE,ILI,ESI,LSE,EII
+
+PASS line 3297: ILE,ESE,LII,EIE,SEE,LSE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,IEI,ILI,LSE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,LSI,ILI,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,EIE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,IEI,SEE,ILI,LIE,LSE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,EIE,LSI,SLE,SEE,ILI,LIE,IEE
+  XOR with line 4430 -> (not in 6435 list): LII,EIE,LSI,IEI,SEE,ILI,ESI,SLI
+  XOR with line 4111 -> (not in 6435 list): LII,SLE,SEE,ILI,ESI,LSE,EII,IEE
+
+PASS line 3338: ILE,ESE,LII,LSI,SLE,IEI,SEE,EII
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,LSI,ILI,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,IEI,ILI,LSE
+  XOR with line 426 -> (not in 6435 list): SEI,LSI,SLE,IEI,ILI,LIE,ESI,EII
+  XOR with line 5098 -> (not in 6435 list): ESE,EIE,LSI,SLE,SEE,ILI,LIE,IEE
+  XOR with line 5279 -> (not in 6435 list): ESE,IEI,SEE,ILI,LIE,LSE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): LII,SLE,SEE,ILI,ESI,LSE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): LII,EIE,LSI,IEI,SEE,ILI,ESI,SLI
+
+PASS line 3380: ILE,ESE,LII,LSI,SLE,SEE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,LSI,IEI,ILI,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,ILI,LSE,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,LSI,SLE,ILI,LIE,ESI,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): ESE,EIE,LSI,SLE,IEI,SEE,ILI,LIE
+  XOR with line 5279 -> (not in 6435 list): ESE,SEE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): LII,SLE,IEI,SEE,ILI,ESI,LSE,EII
+  XOR with line 4111 -> (not in 6435 list): LII,EIE,LSI,SEE,ILI,ESI,IEE,SLI
+
+PASS line 3437: ILE,ESE,LII,LSI,IEI,SEE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,ILI,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,EIE,IEI,ILI,LSE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LSI,IEI,ILI,LIE,ESI,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,EIE,LSI,SEE,ILI,LIE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,SLE,IEI,SEE,ILI,LIE,LSE,EII
+  XOR with line 4430 -> (not in 6435 list): LII,SEE,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): LII,EIE,LSI,SLE,IEI,SEE,ILI,ESI
+
+PASS line 3508: ILE,ESE,LII,LSI,SEE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,IEI,ILI,EII
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,EIE,ILI,LSE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LSI,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,EIE,LSI,IEI,SEE,ILI,LIE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,SLE,SEE,ILI,LIE,LSE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): LII,IEI,SEE,ILI,ESI,LSE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): LII,EIE,LSI,SLE,SEE,ILI,ESI,IEE
+
+PASS line 3559: ILE,ESE,LII,SLE,IEI,SEE,LSE,EII
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,ILI,LSE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,IEI,ILI
+  XOR with line 426 -> (not in 6435 list): SEI,SLE,IEI,ILI,LIE,ESI,LSE,EII
+  XOR with line 5098 -> (not in 6435 list): ESE,EIE,SLE,SEE,ILI,LIE,LSE,IEE
+  XOR with line 5279 -> (not in 6435 list): ESE,LSI,IEI,SEE,ILI,LIE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): LII,LSI,SLE,SEE,ILI,ESI,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): LII,EIE,IEI,SEE,ILI,ESI,LSE,SLI
+
+PASS line 3631: ILE,ESE,LII,SLE,SEE,LSE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,IEI,ILI,LSE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,ILI,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,SLE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): ESE,EIE,SLE,IEI,SEE,ILI,LIE,LSE
+  XOR with line 5279 -> (not in 6435 list): ESE,LSI,SEE,ILI,LIE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): LII,LSI,SLE,IEI,SEE,ILI,ESI,EII
+  XOR with line 4111 -> (not in 6435 list): LII,EIE,SEE,ILI,ESI,LSE,IEE,SLI
+
+PASS line 3702: ILE,ESE,LII,IEI,SEE,LSE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,SLE,ILI,LSE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,IEI,ILI,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,IEI,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,EIE,SEE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LSI,SLE,IEI,SEE,ILI,LIE,EII
+  XOR with line 4430 -> (not in 6435 list): LII,LSI,SEE,ILI,ESI,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): LII,EIE,SLE,IEI,SEE,ILI,ESI,LSE
+
+PASS line 3774: ILE,ESE,LII,SEE,LSE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LII,SLE,IEI,ILI,LSE,EII
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,ILI,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,EIE,IEI,SEE,ILI,LIE,LSE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LSI,SLE,SEE,ILI,LIE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): LII,LSI,IEI,SEE,ILI,ESI,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): LII,EIE,SLE,SEE,ILI,ESI,LSE,IEE
+
+PASS line 3797: ILE,ESE,EIE,LSI,SLE,IEI,SEE,LIE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,EIE,LSI,ILI,LIE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,SLE,IEI,ILI,LIE,LSE,EII
+  XOR with line 426 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,IEI,ILI,ESI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,LSI,SLE,SEE,ILI,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,EIE,IEI,SEE,ILI,LSE,SLI
+  XOR with line 4430 -> (not in 6435 list): EIE,SLE,SEE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 4111 -> (not in 6435 list): LSI,IEI,SEE,ILI,LIE,ESI,EII,SLI
+
+PASS line 3833: ILE,ESE,EIE,LSI,SLE,SEE,LIE,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,EIE,LSI,IEI,ILI,LIE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,SLE,ILI,LIE,LSE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,ILI,ESI,IEE
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,LSI,SLE,IEI,SEE,ILI,EII
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,EIE,SEE,ILI,LSE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): EIE,SLE,IEI,SEE,ILI,LIE,ESI,LSE
+  XOR with line 4111 -> (not in 6435 list): LSI,SEE,ILI,LIE,ESI,EII,IEE,SLI
+
+PASS line 3890: ILE,ESE,EIE,LSI,IEI,SEE,LIE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,ILI,LIE,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,IEI,ILI,LIE,LSE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LII,EIE,LSI,IEI,ILI,ESI,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,LSI,SEE,ILI,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,EIE,SLE,IEI,SEE,ILI,LSE
+  XOR with line 4430 -> (not in 6435 list): EIE,SEE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): LSI,SLE,IEI,SEE,ILI,LIE,ESI,EII
+
+PASS line 3960: ILE,ESE,EIE,LSI,SEE,LIE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,IEI,ILI,LIE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LII,EIE,LSI,ILI,ESI,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,LSI,IEI,SEE,ILI,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,EIE,SLE,SEE,ILI,LSE,IEE
+  XOR with line 4430 -> (not in 6435 list): EIE,IEI,SEE,ILI,LIE,ESI,LSE,SLI
+  XOR with line 4111 -> (not in 6435 list): LSI,SLE,SEE,ILI,LIE,ESI,EII,IEE
+
+PASS line 4013: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,EIE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LSI,SLE,IEI,ILI,LIE,EII
+  XOR with line 426 -> (not in 6435 list): SEI,LII,EIE,SLE,IEI,ILI,ESI,LSE
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,SLE,SEE,ILI,LSE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,EIE,LSI,IEI,SEE,ILI,SLI
+  XOR with line 4430 -> (not in 6435 list): EIE,LSI,SLE,SEE,ILI,LIE,ESI,IEE
+  XOR with line 4111 -> (not in 6435 list): IEI,SEE,ILI,LIE,ESI,LSE,EII,SLI
+
+PASS line 4082: ILE,ESE,EIE,SLE,SEE,LIE,LSE,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,EIE,IEI,ILI,LIE,LSE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LSI,SLE,ILI,LIE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,LII,EIE,SLE,ILI,ESI,LSE,IEE
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,SLE,IEI,SEE,ILI,LSE,EII
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,EIE,LSI,SEE,ILI,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): EIE,LSI,SLE,IEI,SEE,ILI,LIE,ESI
+  XOR with line 4111 -> (not in 6435 list): SEE,ILI,LIE,ESI,LSE,EII,IEE,SLI
+
+PASS line 4153: ILE,ESE,EIE,IEI,SEE,LIE,LSE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,EIE,SLE,ILI,LIE,LSE,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LSI,IEI,ILI,LIE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LII,EIE,IEI,ILI,ESI,LSE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,SEE,ILI,LSE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,IEI,SEE,ILI
+  XOR with line 4430 -> (not in 6435 list): EIE,LSI,SEE,ILI,LIE,ESI,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): SLE,IEI,SEE,ILI,LIE,ESI,LSE,EII
+
+PASS line 4230: ILE,ESE,EIE,SEE,LIE,LSE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,EIE,SLE,IEI,ILI,LIE,LSE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,LSI,ILI,LIE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LII,EIE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,IEI,SEE,ILI,LSE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,SEE,ILI,IEE
+  XOR with line 4430 -> (not in 6435 list): EIE,LSI,IEI,SEE,ILI,LIE,ESI,SLI
+  XOR with line 4111 -> (not in 6435 list): SLE,SEE,ILI,LIE,ESI,LSE,EII,IEE
+
+PASS line 4266: ILE,ESE,LSI,SLE,IEI,SEE,LIE,EII
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LSI,ILI,LIE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,EIE,SLE,IEI,ILI,LIE,LSE
+  XOR with line 426 -> (not in 6435 list): SEI,LII,LSI,SLE,IEI,ILI,ESI,EII
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,SEE,ILI,IEE
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,IEI,SEE,ILI,LSE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): SLE,SEE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): EIE,LSI,IEI,SEE,ILI,LIE,ESI,SLI
+
+PASS line 4336: ILE,ESE,LSI,SLE,SEE,LIE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LSI,IEI,ILI,LIE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,EIE,SLE,ILI,LIE,LSE,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,LII,LSI,SLE,ILI,ESI,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,IEI,SEE,ILI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,SEE,ILI,LSE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): SLE,IEI,SEE,ILI,LIE,ESI,LSE,EII
+  XOR with line 4111 -> (not in 6435 list): EIE,LSI,SEE,ILI,LIE,ESI,IEE,SLI
+
+PASS line 4407: ILE,ESE,LSI,IEI,SEE,LIE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LSI,SLE,ILI,LIE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,EIE,IEI,ILI,LIE,LSE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LII,LSI,IEI,ILI,ESI,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,EIE,LSI,SEE,ILI,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,SLE,IEI,SEE,ILI,LSE,EII
+  XOR with line 4430 -> (not in 6435 list): SEE,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): EIE,LSI,SLE,IEI,SEE,ILI,LIE,ESI
+
+PASS line 4483: ILE,ESE,LSI,SEE,LIE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,LSI,SLE,IEI,ILI,LIE,EII
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,EIE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LII,LSI,ILI,ESI,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,EIE,LSI,IEI,SEE,ILI,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,SLE,SEE,ILI,LSE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): IEI,SEE,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): EIE,LSI,SLE,SEE,ILI,LIE,ESI,IEE
+
+PASS line 4529: ILE,ESE,SLE,IEI,SEE,LIE,LSE,EII
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,IEI,ILI,LIE
+  XOR with line 426 -> (not in 6435 list): SEI,LII,SLE,IEI,ILI,ESI,LSE,EII
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,EIE,SLE,SEE,ILI,LSE,IEE
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,LSI,IEI,SEE,ILI,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): LSI,SLE,SEE,ILI,LIE,ESI,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): EIE,IEI,SEE,ILI,LIE,ESI,LSE,SLI
+
+PASS line 4606: ILE,ESE,SLE,SEE,LIE,LSE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,IEI,ILI,LIE,LSE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,ILI,LIE,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,LII,SLE,ILI,ESI,LSE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,EIE,SLE,IEI,SEE,ILI,LSE
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,LSI,SEE,ILI,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): LSI,SLE,IEI,SEE,ILI,LIE,ESI,EII
+  XOR with line 4111 -> (not in 6435 list): EIE,SEE,ILI,LIE,ESI,LSE,IEE,SLI
+
+PASS line 4663: ILE,ESE,IEI,SEE,LIE,LSE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,SLE,ILI,LIE,LSE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,EIE,LSI,IEI,ILI,LIE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LII,IEI,ILI,ESI,LSE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,EIE,SEE,ILI,LSE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,LSI,SLE,IEI,SEE,ILI,EII
+  XOR with line 4430 -> (not in 6435 list): LSI,SEE,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): EIE,SLE,IEI,SEE,ILI,LIE,ESI,LSE
+
+PASS line 4711: ILE,ESE,SEE,LIE,LSE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,ESE,SLE,IEI,ILI,LIE,LSE,EII
+  XOR with line 2229 -> (not in 6435 list): SEI,ESE,EIE,LSI,ILI,LIE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,LII,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): ESE,LII,EIE,IEI,SEE,ILI,LSE,SLI
+  XOR with line 5279 -> (not in 6435 list): ESE,LII,LSI,SLE,SEE,ILI,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): LSI,IEI,SEE,ILI,LIE,ESI,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): EIE,SLE,SEE,ILI,LIE,ESI,LSE,IEE
+
+PASS line 4722: ILE,LII,EIE,LSI,SLE,IEI,SEE,ESI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,EIE,LSI,ILI,ESI,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,SLE,IEI,ILI,ESI,LSE,EII
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,IEI,ILI,LIE
+  XOR with line 5098 -> (not in 6435 list): LSI,SLE,SEE,ILI,LIE,ESI,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): EIE,IEI,SEE,ILI,LIE,ESI,LSE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,EIE,SLE,SEE,ILI,LSE,IEE
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,LSI,IEI,SEE,ILI,EII,SLI
+
+PASS line 4761: ILE,LII,EIE,LSI,SLE,SEE,ESI,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,EIE,LSI,IEI,ILI,ESI,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,SLE,ILI,ESI,LSE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,EIE,LSI,SLE,ILI,LIE,IEE
+  XOR with line 5098 -> (not in 6435 list): LSI,SLE,IEI,SEE,ILI,LIE,ESI,EII
+  XOR with line 5279 -> (not in 6435 list): EIE,SEE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,EIE,SLE,IEI,SEE,ILI,LSE
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,LSI,SEE,ILI,EII,IEE,SLI
+
+PASS line 4818: ILE,LII,EIE,LSI,IEI,SEE,ESI,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,ILI,ESI,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,IEI,ILI,ESI,LSE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,EIE,LSI,IEI,ILI,LIE,SLI
+  XOR with line 5098 -> (not in 6435 list): LSI,SEE,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): EIE,SLE,IEI,SEE,ILI,LIE,ESI,LSE
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,EIE,SEE,ILI,LSE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,LSI,SLE,IEI,SEE,ILI,EII
+
+PASS line 4890: ILE,LII,EIE,LSI,SEE,ESI,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,IEI,ILI,ESI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,EIE,LSI,ILI,LIE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): LSI,IEI,SEE,ILI,LIE,ESI,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): EIE,SLE,SEE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,EIE,IEI,SEE,ILI,LSE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,LSI,SLE,SEE,ILI,EII,IEE
+
+PASS line 4941: ILE,LII,EIE,SLE,IEI,SEE,ESI,LSE
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,EIE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,LSI,SLE,IEI,ILI,ESI,EII
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,EIE,SLE,IEI,ILI,LIE,LSE
+  XOR with line 5098 -> (not in 6435 list): SLE,SEE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): EIE,LSI,IEI,SEE,ILI,LIE,ESI,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,SEE,ILI,IEE
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,IEI,SEE,ILI,LSE,EII,SLI
+
+PASS line 5012: ILE,LII,EIE,SLE,SEE,ESI,LSE,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,EIE,IEI,ILI,ESI,LSE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,LSI,SLE,ILI,ESI,EII,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,EIE,SLE,ILI,LIE,LSE,IEE
+  XOR with line 5098 -> (not in 6435 list): SLE,IEI,SEE,ILI,LIE,ESI,LSE,EII
+  XOR with line 5279 -> (not in 6435 list): EIE,LSI,SEE,ILI,LIE,ESI,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,IEI,SEE,ILI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,SEE,ILI,LSE,EII,IEE,SLI
+
+PASS line 5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,EIE,SLE,ILI,ESI,LSE,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,LSI,IEI,ILI,ESI,EII,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,EIE,IEI,ILI,LIE,LSE,SLI
+  XOR with line 5098 -> (not in 6435 list): SEE,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): EIE,LSI,SLE,IEI,SEE,ILI,LIE,ESI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,EIE,LSI,SEE,ILI,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,SLE,IEI,SEE,ILI,LSE,EII
+
+PASS line 5158: ILE,LII,EIE,SEE,ESI,LSE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,EIE,SLE,IEI,ILI,ESI,LSE
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,LSI,ILI,ESI,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,EIE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): IEI,SEE,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): EIE,LSI,SLE,SEE,ILI,LIE,ESI,IEE
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,EIE,LSI,IEI,SEE,ILI,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,SLE,SEE,ILI,LSE,EII,IEE
+
+PASS line 5194: ILE,LII,LSI,SLE,IEI,SEE,ESI,EII
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,LSI,ILI,ESI,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,EIE,SLE,IEI,ILI,ESI,LSE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LSI,SLE,IEI,ILI,LIE,EII
+  XOR with line 5098 -> (not in 6435 list): EIE,LSI,SLE,SEE,ILI,LIE,ESI,IEE
+  XOR with line 5279 -> (not in 6435 list): IEI,SEE,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,SLE,SEE,ILI,LSE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,EIE,LSI,IEI,SEE,ILI,SLI
+
+PASS line 5266: ILE,LII,LSI,SLE,SEE,ESI,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,LSI,IEI,ILI,ESI,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,EIE,SLE,ILI,ESI,LSE,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LSI,SLE,ILI,LIE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): EIE,LSI,SLE,IEI,SEE,ILI,LIE,ESI
+  XOR with line 5279 -> (not in 6435 list): SEE,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,SLE,IEI,SEE,ILI,LSE,EII
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,EIE,LSI,SEE,ILI,IEE,SLI
+
+PASS line 5337: ILE,LII,LSI,IEI,SEE,ESI,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,LSI,SLE,ILI,ESI,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,EIE,IEI,ILI,ESI,LSE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LSI,IEI,ILI,LIE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): EIE,LSI,SEE,ILI,LIE,ESI,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): SLE,IEI,SEE,ILI,LIE,ESI,LSE,EII
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,SEE,ILI,LSE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,IEI,SEE,ILI
+
+PASS line 5411: ILE,LII,LSI,SEE,ESI,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,LSI,SLE,IEI,ILI,ESI,EII
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,EIE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LSI,ILI,LIE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): EIE,LSI,IEI,SEE,ILI,LIE,ESI,SLI
+  XOR with line 5279 -> (not in 6435 list): SLE,SEE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,IEI,SEE,ILI,LSE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,EIE,LSI,SLE,SEE,ILI,IEE
+
+PASS line 5459: ILE,LII,SLE,IEI,SEE,ESI,LSE,EII
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,IEI,ILI,ESI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,SLE,IEI,ILI,LIE,LSE,EII
+  XOR with line 5098 -> (not in 6435 list): EIE,SLE,SEE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 5279 -> (not in 6435 list): LSI,IEI,SEE,ILI,LIE,ESI,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,LSI,SLE,SEE,ILI,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,EIE,IEI,SEE,ILI,LSE,SLI
+
+PASS line 5534: ILE,LII,SLE,SEE,ESI,LSE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,IEI,ILI,ESI,LSE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,EIE,LSI,SLE,ILI,ESI,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,SLE,ILI,LIE,LSE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): EIE,SLE,IEI,SEE,ILI,LIE,ESI,LSE
+  XOR with line 5279 -> (not in 6435 list): LSI,SEE,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,LSI,SLE,IEI,SEE,ILI,EII
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,EIE,SEE,ILI,LSE,IEE,SLI
+
+PASS line 5591: ILE,LII,IEI,SEE,ESI,LSE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,SLE,ILI,ESI,LSE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,EIE,LSI,IEI,ILI,ESI,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,IEI,ILI,LIE,LSE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): EIE,SEE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): LSI,SLE,IEI,SEE,ILI,LIE,ESI,EII
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,LSI,SEE,ILI,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,EIE,SLE,IEI,SEE,ILI,LSE
+
+PASS line 5636: ILE,LII,SEE,ESI,LSE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LII,SLE,IEI,ILI,ESI,LSE,EII
+  XOR with line 2229 -> (not in 6435 list): SEI,LII,EIE,LSI,ILI,ESI,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): EIE,IEI,SEE,ILI,LIE,ESI,LSE,SLI
+  XOR with line 5279 -> (not in 6435 list): LSI,SLE,SEE,ILI,LIE,ESI,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): ESE,LII,LSI,IEI,SEE,ILI,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LII,EIE,SLE,SEE,ILI,LSE,IEE
+
+PASS line 5650: ILE,EIE,LSI,SLE,IEI,SEE,LIE,ESI
+  XOR with line 2808 -> (not in 6435 list): SEI,EIE,LSI,ILI,LIE,ESI,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,SLE,IEI,ILI,LIE,ESI,LSE,EII
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,IEI,ILI
+  XOR with line 5098 -> (not in 6435 list): LII,LSI,SLE,SEE,ILI,ESI,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): LII,EIE,IEI,SEE,ILI,ESI,LSE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,EIE,SLE,SEE,ILI,LIE,LSE,IEE
+  XOR with line 4111 -> (not in 6435 list): ESE,LSI,IEI,SEE,ILI,LIE,EII,SLI
+
+PASS line 5717: ILE,EIE,LSI,SLE,SEE,LIE,ESI,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,EIE,LSI,IEI,ILI,LIE,ESI,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,SLE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,SLE,ILI,IEE
+  XOR with line 5098 -> (not in 6435 list): LII,LSI,SLE,IEI,SEE,ILI,ESI,EII
+  XOR with line 5279 -> (not in 6435 list): LII,EIE,SEE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,EIE,SLE,IEI,SEE,ILI,LIE,LSE
+  XOR with line 4111 -> (not in 6435 list): ESE,LSI,SEE,ILI,LIE,EII,IEE,SLI
+
+PASS line 5788: ILE,EIE,LSI,IEI,SEE,LIE,ESI,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,EIE,LSI,SLE,ILI,LIE,ESI,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,IEI,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,IEI,ILI,SLI
+  XOR with line 5098 -> (not in 6435 list): LII,LSI,SEE,ILI,ESI,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): LII,EIE,SLE,IEI,SEE,ILI,ESI,LSE
+  XOR with line 4430 -> (not in 6435 list): ESE,EIE,SEE,ILI,LIE,LSE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LSI,SLE,IEI,SEE,ILI,LIE,EII
+
+PASS line 5865: ILE,EIE,LSI,SEE,LIE,ESI,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,EIE,LSI,SLE,IEI,ILI,LIE,ESI
+  XOR with line 2229 -> (not in 6435 list): SEI,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,EIE,LSI,ILI,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): LII,LSI,IEI,SEE,ILI,ESI,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): LII,EIE,SLE,SEE,ILI,ESI,LSE,IEE
+  XOR with line 4430 -> (not in 6435 list): ESE,EIE,IEI,SEE,ILI,LIE,LSE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,LSI,SLE,SEE,ILI,LIE,EII,IEE
+
+PASS line 5911: ILE,EIE,SLE,IEI,SEE,LIE,ESI,LSE
+  XOR with line 2808 -> (not in 6435 list): SEI,EIE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LSI,SLE,IEI,ILI,LIE,ESI,EII
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,IEI,ILI,LSE
+  XOR with line 5098 -> (not in 6435 list): LII,SLE,SEE,ILI,ESI,LSE,EII,IEE
+  XOR with line 5279 -> (not in 6435 list): LII,EIE,LSI,IEI,SEE,ILI,ESI,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,EIE,LSI,SLE,SEE,ILI,LIE,IEE
+  XOR with line 4111 -> (not in 6435 list): ESE,IEI,SEE,ILI,LIE,LSE,EII,SLI
+
+PASS line 5987: ILE,EIE,SLE,SEE,LIE,ESI,LSE,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,EIE,IEI,ILI,LIE,ESI,LSE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,LSI,SLE,ILI,LIE,ESI,EII,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,EIE,SLE,ILI,LSE,IEE
+  XOR with line 5098 -> (not in 6435 list): LII,SLE,IEI,SEE,ILI,ESI,LSE,EII
+  XOR with line 5279 -> (not in 6435 list): LII,EIE,LSI,SEE,ILI,ESI,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,EIE,LSI,SLE,IEI,SEE,ILI,LIE
+  XOR with line 4111 -> (not in 6435 list): ESE,SEE,ILI,LIE,LSE,EII,IEE,SLI
+
+PASS line 6044: ILE,EIE,IEI,SEE,LIE,ESI,LSE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,EIE,SLE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,LSI,IEI,ILI,LIE,ESI,EII,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,EIE,IEI,ILI,LSE,SLI
+  XOR with line 5098 -> (not in 6435 list): LII,SEE,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): LII,EIE,LSI,SLE,IEI,SEE,ILI,ESI
+  XOR with line 4430 -> (not in 6435 list): ESE,EIE,LSI,SEE,ILI,LIE,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,SLE,IEI,SEE,ILI,LIE,LSE,EII
+
+PASS line 6095: ILE,EIE,SEE,LIE,ESI,LSE,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,EIE,SLE,IEI,ILI,LIE,ESI,LSE
+  XOR with line 2229 -> (not in 6435 list): SEI,LSI,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,EIE,ILI,LSE,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): LII,IEI,SEE,ILI,ESI,LSE,EII,SLI
+  XOR with line 5279 -> (not in 6435 list): LII,EIE,LSI,SLE,SEE,ILI,ESI,IEE
+  XOR with line 4430 -> (not in 6435 list): ESE,EIE,LSI,IEI,SEE,ILI,LIE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,SLE,SEE,ILI,LIE,LSE,EII,IEE
+
+PASS line 6122: ILE,LSI,SLE,IEI,SEE,LIE,ESI,EII
+  XOR with line 2808 -> (not in 6435 list): SEI,LSI,ILI,LIE,ESI,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,EIE,SLE,IEI,ILI,LIE,ESI,LSE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,IEI,ILI,EII
+  XOR with line 5098 -> (not in 6435 list): LII,EIE,LSI,SLE,SEE,ILI,ESI,IEE
+  XOR with line 5279 -> (not in 6435 list): LII,IEI,SEE,ILI,ESI,LSE,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,SLE,SEE,ILI,LIE,LSE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): ESE,EIE,LSI,IEI,SEE,ILI,LIE,SLI
+
+PASS line 6199: ILE,LSI,SLE,SEE,LIE,ESI,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,LSI,IEI,ILI,LIE,ESI,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,EIE,SLE,ILI,LIE,ESI,LSE,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,LSI,SLE,ILI,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): LII,EIE,LSI,SLE,IEI,SEE,ILI,ESI
+  XOR with line 5279 -> (not in 6435 list): LII,SEE,ILI,ESI,LSE,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,SLE,IEI,SEE,ILI,LIE,LSE,EII
+  XOR with line 4111 -> (not in 6435 list): ESE,EIE,LSI,SEE,ILI,LIE,IEE,SLI
+
+PASS line 6256: ILE,LSI,IEI,SEE,LIE,ESI,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LSI,SLE,ILI,LIE,ESI,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,EIE,IEI,ILI,LIE,ESI,LSE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,LSI,IEI,ILI,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): LII,EIE,LSI,SEE,ILI,ESI,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): LII,SLE,IEI,SEE,ILI,ESI,LSE,EII
+  XOR with line 4430 -> (not in 6435 list): ESE,SEE,ILI,LIE,LSE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,EIE,LSI,SLE,IEI,SEE,ILI,LIE
+
+PASS line 6306: ILE,LSI,SEE,LIE,ESI,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,LSI,SLE,IEI,ILI,LIE,ESI,EII
+  XOR with line 2229 -> (not in 6435 list): SEI,EIE,ILI,LIE,ESI,LSE,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,LSI,ILI,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): LII,EIE,LSI,IEI,SEE,ILI,ESI,SLI
+  XOR with line 5279 -> (not in 6435 list): LII,SLE,SEE,ILI,ESI,LSE,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): ESE,IEI,SEE,ILI,LIE,LSE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,EIE,LSI,SLE,SEE,ILI,LIE,IEE
+
+PASS line 6336: ILE,SLE,IEI,SEE,LIE,ESI,LSE,EII
+  XOR with line 2808 -> (not in 6435 list): SEI,ILI,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,EIE,LSI,SLE,IEI,ILI,LIE,ESI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,SLE,IEI,ILI,LSE,EII
+  XOR with line 5098 -> (not in 6435 list): LII,EIE,SLE,SEE,ILI,ESI,LSE,IEE
+  XOR with line 5279 -> (not in 6435 list): LII,LSI,IEI,SEE,ILI,ESI,EII,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LSI,SLE,SEE,ILI,LIE,EII,IEE
+  XOR with line 4111 -> (not in 6435 list): ESE,EIE,IEI,SEE,ILI,LIE,LSE,SLI
+
+PASS line 6387: ILE,SLE,SEE,LIE,ESI,LSE,EII,IEE
+  XOR with line 2808 -> (not in 6435 list): SEI,IEI,ILI,LIE,ESI,LSE,EII,SLI
+  XOR with line 2229 -> (not in 6435 list): SEI,EIE,LSI,SLE,ILI,LIE,ESI,IEE
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,SLE,ILI,LSE,EII,IEE
+  XOR with line 5098 -> (not in 6435 list): LII,EIE,SLE,IEI,SEE,ILI,ESI,LSE
+  XOR with line 5279 -> (not in 6435 list): LII,LSI,SEE,ILI,ESI,EII,IEE,SLI
+  XOR with line 4430 -> (not in 6435 list): ESE,LSI,SLE,IEI,SEE,ILI,LIE,EII
+  XOR with line 4111 -> (not in 6435 list): ESE,EIE,SEE,ILI,LIE,LSE,IEE,SLI
+
+PASS line 6416: ILE,IEI,SEE,LIE,ESI,LSE,EII,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,SLE,ILI,LIE,ESI,LSE,EII,IEE
+  XOR with line 2229 -> (not in 6435 list): SEI,EIE,LSI,IEI,ILI,LIE,ESI,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,IEI,ILI,LSE,EII,SLI
+  XOR with line 5098 -> (not in 6435 list): LII,EIE,SEE,ILI,ESI,LSE,IEE,SLI
+  XOR with line 5279 -> (not in 6435 list): LII,LSI,SLE,IEI,SEE,ILI,ESI,EII
+  XOR with line 4430 -> (not in 6435 list): ESE,LSI,SEE,ILI,LIE,EII,IEE,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,EIE,SLE,IEI,SEE,ILI,LIE,LSE
+
+PASS line 6434: ILE,SEE,LIE,ESI,LSE,EII,IEE,SLI
+  XOR with line 2808 -> (not in 6435 list): SEI,SLE,IEI,ILI,LIE,ESI,LSE,EII
+  XOR with line 2229 -> (not in 6435 list): SEI,EIE,LSI,ILI,LIE,ESI,IEE,SLI
+  XOR with line 426 -> (not in 6435 list): SEI,ESE,LII,ILI,LSE,EII,IEE,SLI
+  XOR with line 5098 -> (not in 6435 list): LII,EIE,IEI,SEE,ILI,ESI,LSE,SLI
+  XOR with line 5279 -> (not in 6435 list): LII,LSI,SLE,SEE,ILI,ESI,EII,IEE
+  XOR with line 4430 -> (not in 6435 list): ESE,LSI,IEI,SEE,ILI,LIE,EII,SLI
+  XOR with line 4111 -> (not in 6435 list): ESE,EIE,SLE,SEE,ILI,LIE,LSE,IEE
+

@@ -1,0 +1,23 @@
+Compare lines: [1]
+Evaluated in descending order: 35 -> 1
+Kept input lines (after suppression): 9
+Total XNOR mappings written: 9
+
+INPUT line 31
+  XNOR with line 1 -> OUTPUT line 26
+INPUT line 30
+  XNOR with line 1 -> OUTPUT line 27
+INPUT line 29
+  XNOR with line 1 -> OUTPUT line 28
+INPUT line 25
+  XNOR with line 1 -> OUTPUT line 20
+INPUT line 24
+  XNOR with line 1 -> OUTPUT line 21
+INPUT line 23
+  XNOR with line 1 -> OUTPUT line 22
+INPUT line 15
+  XNOR with line 1 -> OUTPUT line 10
+INPUT line 14
+  XNOR with line 1 -> OUTPUT line 11
+INPUT line 13
+  XNOR with line 1 -> OUTPUT line 12

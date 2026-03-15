@@ -1,0 +1,75 @@
+#426:  ILE,SEI,ESE,LII,SEE,ILI,LIE,ESI (Democratic / Aristocratic)
+#773:  ILE,SEI,ESE,EIE,SEE,LIE,ESI,IEE
+#984:  ILE,SEI,ESE,LSI,SEE,LIE,ESI,SLI
+#1107: ILE,SEI,ESE,SLE,SEE,LIE,ESI,LSE
+#1178: ILE,SEI,ESE,IEI,SEE,LIE,ESI,EII
+#1585: ILE,SEI,LII,EIE,ILI,LIE,ESI,IEE
+#1796: ILE,SEI,LII,LSI,ILI,LIE,ESI,SLI
+#1919: ILE,SEI,LII,SLE,ILI,LIE,ESI,LSE
+#1990: ILE,SEI,LII,IEI,ILI,LIE,ESI,EII
+#2280: ILE,SEI,EIE,LSI,LIE,ESI,IEE,SLI (Carefree / Farisghted)
+#2402: ILE,SEI,EIE,SLE,LIE,ESI,LSE,IEE
+#2474: ILE,SEI,EIE,IEI,LIE,ESI,EII,IEE (SEI+LIE HEF / ESE+ILI HEF)
+#2655: ILE,SEI,LSI,SLE,LIE,ESI,LSE,SLI (ILE+ESI HEF / LII+SEE HEF)
+#2727: ILE,SEI,LSI,IEI,LIE,ESI,EII,SLI
+#2849: ILE,SEI,SLE,IEI,LIE,ESI,LSE,EII (Yielding / Obstinate)
+#3267: ILE,ESE,LII,EIE,SEE,ILI,LIE,IEE
+#3478: ILE,ESE,LII,LSI,SEE,ILI,LIE,SLI
+#3601: ILE,ESE,LII,SLE,SEE,ILI,LIE,LSE
+#3672: ILE,ESE,LII,IEI,SEE,ILI,LIE,EII
+#3960: ILE,ESE,EIE,LSI,SEE,LIE,IEE,SLI
+#4082: ILE,ESE,EIE,SLE,SEE,LIE,LSE,IEE (Extroverted / Introverted)
+#4154: ILE,ESE,EIE,IEI,SEE,LIE,EII,IEE
+#4335: ILE,ESE,LSI,SLE,SEE,LIE,LSE,SLI
+#4407: ILE,ESE,LSI,IEI,SEE,LIE,EII,SLI (Positivist / Negativist)
+#4154: ILE,ESE,SLE,IEI,SEE,LIE,LSE,EII
+#4904: ILE,LII,EIE,LSI,ILI,LIE,IEE,SLI (EIE+SLI HEF / IEI+LSE HEF)
+#5026: ILE,LII,EIE,SLE,ILI,LIE,LSE,IEE
+#5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive / Sensory)
+#5279: ILE,LII,LSI,SLE,ILI,LIE,LSE,SLI (Logical / Ethical)
+#5351: ILE,LII,LSI,IEI,ILI,LIE,EII,SLI
+#5473: ILE,LII,SLE,IEI,ILI,LIE,LSE,EII (SLE+EII HEF / LSI+IEE HEF)
+#5763: ILE,EIE,LSI,SLE,LIE,LSE,IEE,SLI
+#5834: ILE,EIE,LSI,IEI,LIE,EII,IEE,SLI
+#5957: ILE,EIE,SLE,IEI,LIE,LSE,EII,IEE
+#6168: ILE,LSI,SLE,IEI,LIE,LSE,EII,SLI
+
+
+
+
+
+(NT)e,(SF)i,(SF)e,(NT)i (Democratic / Aristocratic)
+(NT)e,(SF)i,(SF)e,(NF)e
+(NT)e,(SF)i,(SF)e,(ST)i
+(NT)e,(SF)i,(SF)e,(ST)e
+(NT)e,(SF)i,(SF)e,(NF)i
+(NT)e,(SF)i,(NT)i,(NF)e
+(NT)e,(SF)i,(NT)i,(ST)i
+(NT)e,(SF)i,(NT)i,(ST)e
+(NT)e,(SF)i,(NT)i,(NF)i
+(NT)e,(SF)i,(NF)e,(ST)i (Carefree / Farsighted)
+(NT)e,(SF)i,(NF)e,(ST)e
+(NT)e,(SF)i,(NF)e,(NF)i (SEI+LIE HEF / ESE+ILI HEF)
+(NT)e,(SF)i,(ST)i,(ST)e (ILE+ESI HEF / LII+SEE HEF)
+(NT)e,(SF)i,(ST)i,(NF)i
+(NT)e,(SF)i,(ST)e,(NF)i (Yielding / Obstinate)
+(NT)e,(SF)e,(NT)i,(NF)e
+(NT)e,(SF)e,(NT)i,(ST)i
+(NT)e,(SF)e,(NT)i,(ST)e
+(NT)e,(SF)e,(NT)i,(NF)i
+(NT)e,(SF)e,(NF)e,(ST)i
+(NT)e,(SF)e,(NF)e,(ST)e (Extroverted / Introverted)
+(NT)e,(SF)e,(NF)e,(NF)i
+(NT)e,(SF)e,(ST)i,(ST)e
+(NT)e,(SF)e,(ST)i,(NF)i (Positivist / Negativist)
+(NT)e,(SF)e,(ST)e,(NF)i
+(NT)e,(NT)i,(NF)e,(ST)i (EIE+SLI HEF / IEI+LSE HEF)
+(NT)e,(NT)i,(NF)e,(ST)e
+(NT)e,(NT)i,(NF)e,(NF)i (Intuitive / Sensory)
+(NT)e,(NT)i,(ST)i,(ST)e (Logical / Ethical)
+(NT)e,(NT)i,(ST)i,(NF)i
+(NT)e,(NT)i,(ST)e,(NF)i (SLE+EII HEF / LSI+IEE HEF)
+(NT)e,(NF)e,(ST)i,(ST)e
+(NT)e,(NF)e,(ST)i,(NF)i
+(NT)e,(NF)e,(ST)e,(NF)i
+(NT)e,(ST)i,(ST)e,(NF)i

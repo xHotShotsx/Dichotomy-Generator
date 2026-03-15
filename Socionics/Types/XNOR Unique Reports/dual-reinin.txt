@@ -1,0 +1,133 @@
+Compare lines: [2808, 2229, 426, 495, 1, 2280, 2849]
+Evaluated in descending order: 6435 -> 1
+Kept input lines (after suppression): 16
+Total XNOR mappings written: 112
+
+1. INPUT line 5357
+  XNOR with line 2808 -> OUTPUT line 4173
+  XNOR with line 2229 -> OUTPUT line 4356
+  XNOR with line 426 -> OUTPUT line 5032
+  XNOR with line 495 -> OUTPUT line 5009
+  XNOR with line 1 -> OUTPUT line 5328
+  XNOR with line 2280 -> OUTPUT line 4341
+  XNOR with line 2849 -> OUTPUT line 4160
+2. INPUT line 5356
+  XNOR with line 2808 -> OUTPUT line 4172
+  XNOR with line 2229 -> OUTPUT line 4357
+  XNOR with line 426 -> OUTPUT line 5033
+  XNOR with line 495 -> OUTPUT line 5008
+  XNOR with line 1 -> OUTPUT line 5329
+  XNOR with line 2280 -> OUTPUT line 4340
+  XNOR with line 2849 -> OUTPUT line 4161
+3. INPUT line 5355
+  XNOR with line 2808 -> OUTPUT line 4175
+  XNOR with line 2229 -> OUTPUT line 4354
+  XNOR with line 426 -> OUTPUT line 5034
+  XNOR with line 495 -> OUTPUT line 5007
+  XNOR with line 1 -> OUTPUT line 5330
+  XNOR with line 2280 -> OUTPUT line 4343
+  XNOR with line 2849 -> OUTPUT line 4158
+4. INPUT line 5354
+  XNOR with line 2808 -> OUTPUT line 4174
+  XNOR with line 2229 -> OUTPUT line 4355
+  XNOR with line 426 -> OUTPUT line 5035
+  XNOR with line 495 -> OUTPUT line 5006
+  XNOR with line 1 -> OUTPUT line 5331
+  XNOR with line 2280 -> OUTPUT line 4342
+  XNOR with line 2849 -> OUTPUT line 4159
+5. INPUT line 5351
+  XNOR with line 2808 -> OUTPUT line 4179
+  XNOR with line 2229 -> OUTPUT line 4362
+  XNOR with line 426 -> OUTPUT line 5026
+  XNOR with line 495 -> OUTPUT line 5015
+  XNOR with line 1 -> OUTPUT line 5334
+  XNOR with line 2280 -> OUTPUT line 4335
+  XNOR with line 2849 -> OUTPUT line 4154
+6. INPUT line 5350
+  XNOR with line 2808 -> OUTPUT line 4178
+  XNOR with line 2229 -> OUTPUT line 4363
+  XNOR with line 426 -> OUTPUT line 5027
+  XNOR with line 495 -> OUTPUT line 5014
+  XNOR with line 1 -> OUTPUT line 5335
+  XNOR with line 2280 -> OUTPUT line 4334
+  XNOR with line 2849 -> OUTPUT line 4155
+7. INPUT line 5349
+  XNOR with line 2808 -> OUTPUT line 4181
+  XNOR with line 2229 -> OUTPUT line 4360
+  XNOR with line 426 -> OUTPUT line 5028
+  XNOR with line 495 -> OUTPUT line 5013
+  XNOR with line 1 -> OUTPUT line 5336
+  XNOR with line 2280 -> OUTPUT line 4337
+  XNOR with line 2849 -> OUTPUT line 4152
+8. INPUT line 5348
+  XNOR with line 2808 -> OUTPUT line 4180
+  XNOR with line 2229 -> OUTPUT line 4361
+  XNOR with line 426 -> OUTPUT line 5029
+  XNOR with line 495 -> OUTPUT line 5012
+  XNOR with line 1 -> OUTPUT line 5337
+  XNOR with line 2280 -> OUTPUT line 4336
+  XNOR with line 2849 -> OUTPUT line 4153
+9. INPUT line 5287
+  XNOR with line 2808 -> OUTPUT line 4103
+  XNOR with line 2229 -> OUTPUT line 4426
+  XNOR with line 426 -> OUTPUT line 5102
+  XNOR with line 495 -> OUTPUT line 5079
+  XNOR with line 1 -> OUTPUT line 5258
+  XNOR with line 2280 -> OUTPUT line 4411
+  XNOR with line 2849 -> OUTPUT line 4090
+10. INPUT line 5286
+  XNOR with line 2808 -> OUTPUT line 4102
+  XNOR with line 2229 -> OUTPUT line 4427
+  XNOR with line 426 -> OUTPUT line 5103
+  XNOR with line 495 -> OUTPUT line 5078
+  XNOR with line 1 -> OUTPUT line 5259
+  XNOR with line 2280 -> OUTPUT line 4410
+  XNOR with line 2849 -> OUTPUT line 4091
+11. INPUT line 5285
+  XNOR with line 2808 -> OUTPUT line 4105
+  XNOR with line 2229 -> OUTPUT line 4424
+  XNOR with line 426 -> OUTPUT line 5104
+  XNOR with line 495 -> OUTPUT line 5077
+  XNOR with line 1 -> OUTPUT line 5260
+  XNOR with line 2280 -> OUTPUT line 4413
+  XNOR with line 2849 -> OUTPUT line 4088
+12. INPUT line 5284
+  XNOR with line 2808 -> OUTPUT line 4104
+  XNOR with line 2229 -> OUTPUT line 4425
+  XNOR with line 426 -> OUTPUT line 5105
+  XNOR with line 495 -> OUTPUT line 5076
+  XNOR with line 1 -> OUTPUT line 5261
+  XNOR with line 2280 -> OUTPUT line 4412
+  XNOR with line 2849 -> OUTPUT line 4089
+13. INPUT line 5281
+  XNOR with line 2808 -> OUTPUT line 4109
+  XNOR with line 2229 -> OUTPUT line 4432
+  XNOR with line 426 -> OUTPUT line 5096
+  XNOR with line 495 -> OUTPUT line 5085
+  XNOR with line 1 -> OUTPUT line 5264
+  XNOR with line 2280 -> OUTPUT line 4405
+  XNOR with line 2849 -> OUTPUT line 4084
+14. INPUT line 5280
+  XNOR with line 2808 -> OUTPUT line 4108
+  XNOR with line 2229 -> OUTPUT line 4433
+  XNOR with line 426 -> OUTPUT line 5097
+  XNOR with line 495 -> OUTPUT line 5084
+  XNOR with line 1 -> OUTPUT line 5265
+  XNOR with line 2280 -> OUTPUT line 4404
+  XNOR with line 2849 -> OUTPUT line 4085
+15. INPUT line 5279
+  XNOR with line 2808 -> OUTPUT line 4111
+  XNOR with line 2229 -> OUTPUT line 4430
+  XNOR with line 426 -> OUTPUT line 5098
+  XNOR with line 495 -> OUTPUT line 5083
+  XNOR with line 1 -> OUTPUT line 5266
+  XNOR with line 2280 -> OUTPUT line 4407
+  XNOR with line 2849 -> OUTPUT line 4082
+16. INPUT line 5278
+  XNOR with line 2808 -> OUTPUT line 4110
+  XNOR with line 2229 -> OUTPUT line 4431
+  XNOR with line 426 -> OUTPUT line 5099
+  XNOR with line 495 -> OUTPUT line 5082
+  XNOR with line 1 -> OUTPUT line 5267
+  XNOR with line 2280 -> OUTPUT line 4406
+  XNOR with line 2849 -> OUTPUT line 4083
