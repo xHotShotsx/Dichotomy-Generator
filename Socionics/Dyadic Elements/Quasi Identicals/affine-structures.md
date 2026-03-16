@@ -1,0 +1,573 @@
+Labels: ['(NT)e', '(SF)i', '(SF)e', '(NT)i', '(NF)e', '(ST)i', '(ST)e', '(NF)i']
+Total affine Z2^3 structures: 30
+
+System 1 (Reinin)
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NT)i
+  100 -> (NF)e
+  101 -> (ST)i
+  110 -> (ST)e
+  111 -> (NF)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NT)i | (NF)e,(ST)i,(ST)e,(NF)i (Democratic / Aristocratic)
+  d2: (NT)e,(SF)i,(NF)e,(ST)i | (SF)e,(NT)i,(ST)e,(NF)i (Carefree / Farsighted)
+  d3: (NT)e,(SF)i,(ST)e,(NF)i | (SF)e,(NT)i,(NF)e,(ST)i (Yielding / Obstinate)
+  d4: (NT)e,(SF)e,(NF)e,(ST)e | (SF)i,(NT)i,(ST)i,(NF)i (Extroverted / Introverted)
+  d5: (NT)e,(SF)e,(ST)i,(NF)i | (SF)i,(NT)i,(NF)e,(ST)e (Positivist / Negativist)
+  d6: (NT)e,(NT)i,(NF)e,(NF)i | (SF)i,(SF)e,(ST)i,(ST)e (Intuitive / Sensory)
+  d7: (NT)e,(NT)i,(ST)i,(ST)e | (SF)i,(SF)e,(NF)e,(NF)i (Logical / Ethical)
+
+System 2
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NT)i
+  100 -> (NF)e
+  101 -> (ST)i
+  110 -> (NF)i
+  111 -> (ST)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NT)i | (NF)e,(ST)i,(ST)e,(NF)i (Democratic / Aristocratic)
+  d2: (NT)e,(SF)i,(NF)e,(ST)i | (SF)e,(NT)i,(ST)e,(NF)i (Carefree / Farsighted)
+  d3: (NT)e,(SF)i,(ST)e,(NF)i | (SF)e,(NT)i,(NF)e,(ST)i (Yielding / Obstinate)
+  d4: (NT)e,(SF)e,(NF)e,(NF)i | (SF)i,(NT)i,(ST)i,(ST)e
+  d5: (NT)e,(SF)e,(ST)i,(ST)e | (SF)i,(NT)i,(NF)e,(NF)i
+  d6: (NT)e,(NT)i,(NF)e,(ST)e | (SF)i,(SF)e,(ST)i,(NF)i
+  d7: (NT)e,(NT)i,(ST)i,(NF)i | (SF)i,(SF)e,(NF)e,(ST)e
+
+System 3
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NT)i
+  100 -> (NF)e
+  101 -> (ST)e
+  110 -> (ST)i
+  111 -> (NF)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NT)i | (NF)e,(ST)i,(ST)e,(NF)i (Democratic / Aristocratic)
+  d2: (NT)e,(SF)i,(NF)e,(ST)e | (SF)e,(NT)i,(ST)i,(NF)i
+  d3: (NT)e,(SF)i,(ST)i,(NF)i | (SF)e,(NT)i,(NF)e,(ST)e
+  d4: (NT)e,(SF)e,(NF)e,(ST)i | (SF)i,(NT)i,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)e,(NF)i | (SF)i,(NT)i,(NF)e,(ST)i
+  d6: (NT)e,(NT)i,(NF)e,(NF)i | (SF)i,(SF)e,(ST)i,(ST)e (Intuitive / Sensory)
+  d7: (NT)e,(NT)i,(ST)i,(ST)e | (SF)i,(SF)e,(NF)e,(NF)i (Logical / Ethical)
+
+System 4
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NT)i
+  100 -> (NF)e
+  101 -> (ST)e
+  110 -> (NF)i
+  111 -> (ST)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NT)i | (NF)e,(ST)i,(ST)e,(NF)i (Democratic / Aristocratic)
+  d2: (NT)e,(SF)i,(NF)e,(ST)e | (SF)e,(NT)i,(ST)i,(NF)i
+  d3: (NT)e,(SF)i,(ST)i,(NF)i | (SF)e,(NT)i,(NF)e,(ST)e
+  d4: (NT)e,(SF)e,(NF)e,(NF)i | (SF)i,(NT)i,(ST)i,(ST)e
+  d5: (NT)e,(SF)e,(ST)i,(ST)e | (SF)i,(NT)i,(NF)e,(NF)i
+  d6: (NT)e,(NT)i,(NF)e,(ST)i | (SF)i,(SF)e,(ST)e,(NF)i (EIE+SLI HEF / IEI+LSE HEF)
+  d7: (NT)e,(NT)i,(ST)e,(NF)i | (SF)i,(SF)e,(NF)e,(ST)i (SLE+EII HEF / LSI+IEE HEF)
+
+System 5
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NT)i
+  100 -> (NF)e
+  101 -> (NF)i
+  110 -> (ST)i
+  111 -> (ST)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NT)i | (NF)e,(ST)i,(ST)e,(NF)i (Democratic / Aristocratic)
+  d2: (NT)e,(SF)i,(NF)e,(NF)i | (SF)e,(NT)i,(ST)i,(ST)e (SEI+LIE HEF / ESE+ILI HEF)
+  d3: (NT)e,(SF)i,(ST)i,(ST)e | (SF)e,(NT)i,(NF)e,(NF)i (ILE+ESI HEF / LII+SEE HEF)
+  d4: (NT)e,(SF)e,(NF)e,(ST)i | (SF)i,(NT)i,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)e,(NF)i | (SF)i,(NT)i,(NF)e,(ST)i
+  d6: (NT)e,(NT)i,(NF)e,(ST)e | (SF)i,(SF)e,(ST)i,(NF)i
+  d7: (NT)e,(NT)i,(ST)i,(NF)i | (SF)i,(SF)e,(NF)e,(ST)e
+
+System 6 (Mirror Conflict HEF)
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NT)i
+  100 -> (NF)e
+  101 -> (NF)i
+  110 -> (ST)e
+  111 -> (ST)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NT)i | (NF)e,(ST)i,(ST)e,(NF)i (Democratic / Aristocratic)
+  d2: (NT)e,(SF)i,(NF)e,(NF)i | (SF)e,(NT)i,(ST)i,(ST)e (SEI+LIE HEF / ESE+ILI HEF)
+  d3: (NT)e,(SF)i,(ST)i,(ST)e | (SF)e,(NT)i,(NF)e,(NF)i (ILE+ESI HEF / LII+SEE HEF)
+  d4: (NT)e,(SF)e,(NF)e,(ST)e | (SF)i,(NT)i,(ST)i,(NF)i (Extroverted / Introverted)
+  d5: (NT)e,(SF)e,(ST)i,(NF)i | (SF)i,(NT)i,(NF)e,(ST)e (Positivist / Negativist)
+  d6: (NT)e,(NT)i,(NF)e,(ST)i | (SF)i,(SF)e,(ST)e,(NF)i (EIE+SLI HEF / IEI+LSE HEF)
+  d7: (NT)e,(NT)i,(ST)e,(NF)i | (SF)i,(SF)e,(NF)e,(ST)i (SLE+EII HEF / LSI+IEE HEF)
+
+System 7
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)e
+  100 -> (NT)i
+  101 -> (ST)i
+  110 -> (ST)e
+  111 -> (NF)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)e | (NT)i,(ST)i,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(ST)i | (SF)e,(NF)e,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(ST)e,(NF)i | (SF)e,(NT)i,(NF)e,(ST)i (Yielding / Obstinate)
+  d4: (NT)e,(SF)e,(NT)i,(ST)e | (SF)i,(NF)e,(ST)i,(NF)i
+  d5: (NT)e,(SF)e,(ST)i,(NF)i | (SF)i,(NT)i,(NF)e,(ST)e (Positivist / Negativist)
+  d6: (NT)e,(NT)i,(NF)e,(NF)i | (SF)i,(SF)e,(ST)i,(ST)e (Intuitive / Sensory)
+  d7: (NT)e,(NF)e,(ST)i,(ST)e | (SF)i,(SF)e,(NT)i,(NF)i
+
+System 8
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)e
+  100 -> (NT)i
+  101 -> (ST)i
+  110 -> (NF)i
+  111 -> (ST)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)e | (NT)i,(ST)i,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(ST)i | (SF)e,(NF)e,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(ST)e,(NF)i | (SF)e,(NT)i,(NF)e,(ST)i (Yielding / Obstinate)
+  d4: (NT)e,(SF)e,(NT)i,(NF)i | (SF)i,(NF)e,(ST)i,(ST)e
+  d5: (NT)e,(SF)e,(ST)i,(ST)e | (SF)i,(NT)i,(NF)e,(NF)i
+  d6: (NT)e,(NT)i,(NF)e,(ST)e | (SF)i,(SF)e,(ST)i,(NF)i
+  d7: (NT)e,(NF)e,(ST)i,(NF)i | (SF)i,(SF)e,(NT)i,(ST)e
+
+System 9
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)e
+  100 -> (NT)i
+  101 -> (ST)e
+  110 -> (ST)i
+  111 -> (NF)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)e | (NT)i,(ST)i,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(ST)e | (SF)e,(NF)e,(ST)i,(NF)i
+  d3: (NT)e,(SF)i,(ST)i,(NF)i | (SF)e,(NT)i,(NF)e,(ST)e
+  d4: (NT)e,(SF)e,(NT)i,(ST)i | (SF)i,(NF)e,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)e,(NF)i | (SF)i,(NT)i,(NF)e,(ST)i
+  d6: (NT)e,(NT)i,(NF)e,(NF)i | (SF)i,(SF)e,(ST)i,(ST)e (Intuitive / Sensory)
+  d7: (NT)e,(NF)e,(ST)i,(ST)e | (SF)i,(SF)e,(NT)i,(NF)i
+
+System 10
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)e
+  100 -> (NT)i
+  101 -> (ST)e
+  110 -> (NF)i
+  111 -> (ST)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)e | (NT)i,(ST)i,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(ST)e | (SF)e,(NF)e,(ST)i,(NF)i
+  d3: (NT)e,(SF)i,(ST)i,(NF)i | (SF)e,(NT)i,(NF)e,(ST)e
+  d4: (NT)e,(SF)e,(NT)i,(NF)i | (SF)i,(NF)e,(ST)i,(ST)e
+  d5: (NT)e,(SF)e,(ST)i,(ST)e | (SF)i,(NT)i,(NF)e,(NF)i
+  d6: (NT)e,(NT)i,(NF)e,(ST)i | (SF)i,(SF)e,(ST)e,(NF)i (EIE+SLI HEF / IEI+LSE HEF)
+  d7: (NT)e,(NF)e,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(ST)i
+
+System 11
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)e
+  100 -> (NT)i
+  101 -> (NF)i
+  110 -> (ST)i
+  111 -> (ST)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)e | (NT)i,(ST)i,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)i | (SF)e,(NF)e,(ST)i,(ST)e
+  d3: (NT)e,(SF)i,(ST)i,(ST)e | (SF)e,(NT)i,(NF)e,(NF)i (ILE+ESI HEF / LII+SEE HEF)
+  d4: (NT)e,(SF)e,(NT)i,(ST)i | (SF)i,(NF)e,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)e,(NF)i | (SF)i,(NT)i,(NF)e,(ST)i
+  d6: (NT)e,(NT)i,(NF)e,(ST)e | (SF)i,(SF)e,(ST)i,(NF)i
+  d7: (NT)e,(NF)e,(ST)i,(NF)i | (SF)i,(SF)e,(NT)i,(ST)e
+
+System 12
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)e
+  100 -> (NT)i
+  101 -> (NF)i
+  110 -> (ST)e
+  111 -> (ST)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)e | (NT)i,(ST)i,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)i | (SF)e,(NF)e,(ST)i,(ST)e
+  d3: (NT)e,(SF)i,(ST)i,(ST)e | (SF)e,(NT)i,(NF)e,(NF)i (ILE+ESI HEF / LII+SEE HEF)
+  d4: (NT)e,(SF)e,(NT)i,(ST)e | (SF)i,(NF)e,(ST)i,(NF)i
+  d5: (NT)e,(SF)e,(ST)i,(NF)i | (SF)i,(NT)i,(NF)e,(ST)e (Positivist / Negativist)
+  d6: (NT)e,(NT)i,(NF)e,(ST)i | (SF)i,(SF)e,(ST)e,(NF)i (EIE+SLI HEF / IEI+LSE HEF)
+  d7: (NT)e,(NF)e,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(ST)i
+
+System 13
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)i
+  100 -> (NT)i
+  101 -> (NF)e
+  110 -> (ST)e
+  111 -> (NF)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)i | (NT)i,(NF)e,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)e | (SF)e,(ST)i,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(ST)e,(NF)i | (SF)e,(NT)i,(NF)e,(ST)i (Yielding / Obstinate)
+  d4: (NT)e,(SF)e,(NT)i,(ST)e | (SF)i,(NF)e,(ST)i,(NF)i
+  d5: (NT)e,(SF)e,(NF)e,(NF)i | (SF)i,(NT)i,(ST)i,(ST)e
+  d6: (NT)e,(NT)i,(ST)i,(NF)i | (SF)i,(SF)e,(NF)e,(ST)e
+  d7: (NT)e,(NF)e,(ST)i,(ST)e | (SF)i,(SF)e,(NT)i,(NF)i
+
+System 14
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)i
+  100 -> (NT)i
+  101 -> (NF)e
+  110 -> (NF)i
+  111 -> (ST)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)i | (NT)i,(NF)e,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)e | (SF)e,(ST)i,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(ST)e,(NF)i | (SF)e,(NT)i,(NF)e,(ST)i (Yielding / Obstinate)
+  d4: (NT)e,(SF)e,(NT)i,(NF)i | (SF)i,(NF)e,(ST)i,(ST)e
+  d5: (NT)e,(SF)e,(NF)e,(ST)e | (SF)i,(NT)i,(ST)i,(NF)i (Extroverted / Introverted)
+  d6: (NT)e,(NT)i,(ST)i,(ST)e | (SF)i,(SF)e,(NF)e,(NF)i (Logical / Ethical)
+  d7: (NT)e,(NF)e,(ST)i,(NF)i | (SF)i,(SF)e,(NT)i,(ST)e
+
+System 15
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)i
+  100 -> (NT)i
+  101 -> (ST)e
+  110 -> (NF)e
+  111 -> (NF)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)i | (NT)i,(NF)e,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(ST)e | (SF)e,(NF)e,(ST)i,(NF)i
+  d3: (NT)e,(SF)i,(NF)e,(NF)i | (SF)e,(NT)i,(ST)i,(ST)e (SEI+LIE HEF / ESE+ILI HEF)
+  d4: (NT)e,(SF)e,(NT)i,(NF)e | (SF)i,(ST)i,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)e,(NF)i | (SF)i,(NT)i,(NF)e,(ST)i
+  d6: (NT)e,(NT)i,(ST)i,(NF)i | (SF)i,(SF)e,(NF)e,(ST)e
+  d7: (NT)e,(NF)e,(ST)i,(ST)e | (SF)i,(SF)e,(NT)i,(NF)i
+
+System 16
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)i
+  100 -> (NT)i
+  101 -> (ST)e
+  110 -> (NF)i
+  111 -> (NF)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)i | (NT)i,(NF)e,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(ST)e | (SF)e,(NF)e,(ST)i,(NF)i
+  d3: (NT)e,(SF)i,(NF)e,(NF)i | (SF)e,(NT)i,(ST)i,(ST)e (SEI+LIE HEF / ESE+ILI HEF)
+  d4: (NT)e,(SF)e,(NT)i,(NF)i | (SF)i,(NF)e,(ST)i,(ST)e
+  d5: (NT)e,(SF)e,(NF)e,(ST)e | (SF)i,(NT)i,(ST)i,(NF)i (Extroverted / Introverted)
+  d6: (NT)e,(NT)i,(NF)e,(ST)i | (SF)i,(SF)e,(ST)e,(NF)i (EIE+SLI HEF / IEI+LSE HEF)
+  d7: (NT)e,(ST)i,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(NF)e
+
+System 17
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)i
+  100 -> (NT)i
+  101 -> (NF)i
+  110 -> (NF)e
+  111 -> (ST)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)i | (NT)i,(NF)e,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)i | (SF)e,(NF)e,(ST)i,(ST)e
+  d3: (NT)e,(SF)i,(NF)e,(ST)e | (SF)e,(NT)i,(ST)i,(NF)i
+  d4: (NT)e,(SF)e,(NT)i,(NF)e | (SF)i,(ST)i,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)e,(NF)i | (SF)i,(NT)i,(NF)e,(ST)i
+  d6: (NT)e,(NT)i,(ST)i,(ST)e | (SF)i,(SF)e,(NF)e,(NF)i (Logical / Ethical)
+  d7: (NT)e,(NF)e,(ST)i,(NF)i | (SF)i,(SF)e,(NT)i,(ST)e
+
+System 18
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)i
+  100 -> (NT)i
+  101 -> (NF)i
+  110 -> (ST)e
+  111 -> (NF)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)i | (NT)i,(NF)e,(ST)e,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)i | (SF)e,(NF)e,(ST)i,(ST)e
+  d3: (NT)e,(SF)i,(NF)e,(ST)e | (SF)e,(NT)i,(ST)i,(NF)i
+  d4: (NT)e,(SF)e,(NT)i,(ST)e | (SF)i,(NF)e,(ST)i,(NF)i
+  d5: (NT)e,(SF)e,(NF)e,(NF)i | (SF)i,(NT)i,(ST)i,(ST)e
+  d6: (NT)e,(NT)i,(NF)e,(ST)i | (SF)i,(SF)e,(ST)e,(NF)i (EIE+SLI HEF / IEI+LSE HEF)
+  d7: (NT)e,(ST)i,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(NF)e
+
+System 19
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)e
+  100 -> (NT)i
+  101 -> (NF)e
+  110 -> (ST)i
+  111 -> (NF)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)e | (NT)i,(NF)e,(ST)i,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)e | (SF)e,(ST)i,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(ST)i,(NF)i | (SF)e,(NT)i,(NF)e,(ST)e
+  d4: (NT)e,(SF)e,(NT)i,(ST)i | (SF)i,(NF)e,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(NF)e,(NF)i | (SF)i,(NT)i,(ST)i,(ST)e
+  d6: (NT)e,(NT)i,(ST)e,(NF)i | (SF)i,(SF)e,(NF)e,(ST)i (SLE+EII HEF / LSI+IEE HEF)
+  d7: (NT)e,(NF)e,(ST)i,(ST)e | (SF)i,(SF)e,(NT)i,(NF)i
+
+System 20
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)e
+  100 -> (NT)i
+  101 -> (NF)e
+  110 -> (NF)i
+  111 -> (ST)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)e | (NT)i,(NF)e,(ST)i,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)e | (SF)e,(ST)i,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(ST)i,(NF)i | (SF)e,(NT)i,(NF)e,(ST)e
+  d4: (NT)e,(SF)e,(NT)i,(NF)i | (SF)i,(NF)e,(ST)i,(ST)e
+  d5: (NT)e,(SF)e,(NF)e,(ST)i | (SF)i,(NT)i,(ST)e,(NF)i
+  d6: (NT)e,(NT)i,(ST)i,(ST)e | (SF)i,(SF)e,(NF)e,(NF)i (Logical / Ethical)
+  d7: (NT)e,(NF)e,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(ST)i
+
+System 21
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)e
+  100 -> (NT)i
+  101 -> (ST)i
+  110 -> (NF)e
+  111 -> (NF)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)e | (NT)i,(NF)e,(ST)i,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(ST)i | (SF)e,(NF)e,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(NF)e,(NF)i | (SF)e,(NT)i,(ST)i,(ST)e (SEI+LIE HEF / ESE+ILI HEF)
+  d4: (NT)e,(SF)e,(NT)i,(NF)e | (SF)i,(ST)i,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)i,(NF)i | (SF)i,(NT)i,(NF)e,(ST)e (Positivist / Negativist)
+  d6: (NT)e,(NT)i,(ST)e,(NF)i | (SF)i,(SF)e,(NF)e,(ST)i (SLE+EII HEF / LSI+IEE HEF)
+  d7: (NT)e,(NF)e,(ST)i,(ST)e | (SF)i,(SF)e,(NT)i,(NF)i
+
+System 22
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)e
+  100 -> (NT)i
+  101 -> (ST)i
+  110 -> (NF)i
+  111 -> (NF)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)e | (NT)i,(NF)e,(ST)i,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(ST)i | (SF)e,(NF)e,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(NF)e,(NF)i | (SF)e,(NT)i,(ST)i,(ST)e (SEI+LIE HEF / ESE+ILI HEF)
+  d4: (NT)e,(SF)e,(NT)i,(NF)i | (SF)i,(NF)e,(ST)i,(ST)e
+  d5: (NT)e,(SF)e,(NF)e,(ST)i | (SF)i,(NT)i,(ST)e,(NF)i
+  d6: (NT)e,(NT)i,(NF)e,(ST)e | (SF)i,(SF)e,(ST)i,(NF)i
+  d7: (NT)e,(ST)i,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(NF)e
+
+System 23
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)e
+  100 -> (NT)i
+  101 -> (NF)i
+  110 -> (NF)e
+  111 -> (ST)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)e | (NT)i,(NF)e,(ST)i,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)i | (SF)e,(NF)e,(ST)i,(ST)e
+  d3: (NT)e,(SF)i,(NF)e,(ST)i | (SF)e,(NT)i,(ST)e,(NF)i (Carefree / Farsighted)
+  d4: (NT)e,(SF)e,(NT)i,(NF)e | (SF)i,(ST)i,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)i,(NF)i | (SF)i,(NT)i,(NF)e,(ST)e (Positivist / Negativist)
+  d6: (NT)e,(NT)i,(ST)i,(ST)e | (SF)i,(SF)e,(NF)e,(NF)i (Logical / Ethical)
+  d7: (NT)e,(NF)e,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(ST)i
+
+System 24
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (ST)e
+  100 -> (NT)i
+  101 -> (NF)i
+  110 -> (ST)i
+  111 -> (NF)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(ST)e | (NT)i,(NF)e,(ST)i,(NF)i
+  d2: (NT)e,(SF)i,(NT)i,(NF)i | (SF)e,(NF)e,(ST)i,(ST)e
+  d3: (NT)e,(SF)i,(NF)e,(ST)i | (SF)e,(NT)i,(ST)e,(NF)i (Carefree / Farsighted)
+  d4: (NT)e,(SF)e,(NT)i,(ST)i | (SF)i,(NF)e,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(NF)e,(NF)i | (SF)i,(NT)i,(ST)i,(ST)e
+  d6: (NT)e,(NT)i,(NF)e,(ST)e | (SF)i,(SF)e,(ST)i,(NF)i
+  d7: (NT)e,(ST)i,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(NF)e
+
+System 25
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)i
+  100 -> (NT)i
+  101 -> (NF)e
+  110 -> (ST)i
+  111 -> (ST)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)i | (NT)i,(NF)e,(ST)i,(ST)e
+  d2: (NT)e,(SF)i,(NT)i,(NF)e | (SF)e,(ST)i,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(ST)i,(ST)e | (SF)e,(NT)i,(NF)e,(NF)i (ILE+ESI HEF / LII+SEE HEF)
+  d4: (NT)e,(SF)e,(NT)i,(ST)i | (SF)i,(NF)e,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(NF)e,(ST)e | (SF)i,(NT)i,(ST)i,(NF)i (Extroverted / Introverted)
+  d6: (NT)e,(NT)i,(ST)e,(NF)i | (SF)i,(SF)e,(NF)e,(ST)i (SLE+EII HEF / LSI+IEE HEF)
+  d7: (NT)e,(NF)e,(ST)i,(NF)i | (SF)i,(SF)e,(NT)i,(ST)e
+
+System 26
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)i
+  100 -> (NT)i
+  101 -> (NF)e
+  110 -> (ST)e
+  111 -> (ST)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)i | (NT)i,(NF)e,(ST)i,(ST)e
+  d2: (NT)e,(SF)i,(NT)i,(NF)e | (SF)e,(ST)i,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(ST)i,(ST)e | (SF)e,(NT)i,(NF)e,(NF)i (ILE+ESI HEF / LII+SEE HEF)
+  d4: (NT)e,(SF)e,(NT)i,(ST)e | (SF)i,(NF)e,(ST)i,(NF)i
+  d5: (NT)e,(SF)e,(NF)e,(ST)i | (SF)i,(NT)i,(ST)e,(NF)i
+  d6: (NT)e,(NT)i,(ST)i,(NF)i | (SF)i,(SF)e,(NF)e,(ST)e
+  d7: (NT)e,(NF)e,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(ST)i
+
+System 27
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)i
+  100 -> (NT)i
+  101 -> (ST)i
+  110 -> (NF)e
+  111 -> (ST)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)i | (NT)i,(NF)e,(ST)i,(ST)e
+  d2: (NT)e,(SF)i,(NT)i,(ST)i | (SF)e,(NF)e,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(NF)e,(ST)e | (SF)e,(NT)i,(ST)i,(NF)i
+  d4: (NT)e,(SF)e,(NT)i,(NF)e | (SF)i,(ST)i,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)i,(ST)e | (SF)i,(NT)i,(NF)e,(NF)i
+  d6: (NT)e,(NT)i,(ST)e,(NF)i | (SF)i,(SF)e,(NF)e,(ST)i (SLE+EII HEF / LSI+IEE HEF)
+  d7: (NT)e,(NF)e,(ST)i,(NF)i | (SF)i,(SF)e,(NT)i,(ST)e
+
+System 28
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)i
+  100 -> (NT)i
+  101 -> (ST)i
+  110 -> (ST)e
+  111 -> (NF)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)i | (NT)i,(NF)e,(ST)i,(ST)e
+  d2: (NT)e,(SF)i,(NT)i,(ST)i | (SF)e,(NF)e,(ST)e,(NF)i
+  d3: (NT)e,(SF)i,(NF)e,(ST)e | (SF)e,(NT)i,(ST)i,(NF)i
+  d4: (NT)e,(SF)e,(NT)i,(ST)e | (SF)i,(NF)e,(ST)i,(NF)i
+  d5: (NT)e,(SF)e,(NF)e,(ST)i | (SF)i,(NT)i,(ST)e,(NF)i
+  d6: (NT)e,(NT)i,(NF)e,(NF)i | (SF)i,(SF)e,(ST)i,(ST)e (Intuitive / Sensory)
+  d7: (NT)e,(ST)i,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(NF)e
+
+System 29
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)i
+  100 -> (NT)i
+  101 -> (ST)e
+  110 -> (NF)e
+  111 -> (ST)i
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)i | (NT)i,(NF)e,(ST)i,(ST)e
+  d2: (NT)e,(SF)i,(NT)i,(ST)e | (SF)e,(NF)e,(ST)i,(NF)i
+  d3: (NT)e,(SF)i,(NF)e,(ST)i | (SF)e,(NT)i,(ST)e,(NF)i (Carefree / Farsighted)
+  d4: (NT)e,(SF)e,(NT)i,(NF)e | (SF)i,(ST)i,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(ST)i,(ST)e | (SF)i,(NT)i,(NF)e,(NF)i
+  d6: (NT)e,(NT)i,(ST)i,(NF)i | (SF)i,(SF)e,(NF)e,(ST)e
+  d7: (NT)e,(NF)e,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(ST)i
+
+System 30
+Coordinate assignment:
+  000 -> (NT)e
+  001 -> (SF)i
+  010 -> (SF)e
+  011 -> (NF)i
+  100 -> (NT)i
+  101 -> (ST)e
+  110 -> (ST)i
+  111 -> (NF)e
+Dichotomies:
+  d1: (NT)e,(SF)i,(SF)e,(NF)i | (NT)i,(NF)e,(ST)i,(ST)e
+  d2: (NT)e,(SF)i,(NT)i,(ST)e | (SF)e,(NF)e,(ST)i,(NF)i
+  d3: (NT)e,(SF)i,(NF)e,(ST)i | (SF)e,(NT)i,(ST)e,(NF)i (Carefree / Farsighted)
+  d4: (NT)e,(SF)e,(NT)i,(ST)i | (SF)i,(NF)e,(ST)e,(NF)i
+  d5: (NT)e,(SF)e,(NF)e,(ST)e | (SF)i,(NT)i,(ST)i,(NF)i (Extroverted / Introverted)
+  d6: (NT)e,(NT)i,(NF)e,(NF)i | (SF)i,(SF)e,(ST)i,(ST)e (Intuitive / Sensory)
+  d7: (NT)e,(ST)i,(ST)e,(NF)i | (SF)i,(SF)e,(NT)i,(NF)e
+
