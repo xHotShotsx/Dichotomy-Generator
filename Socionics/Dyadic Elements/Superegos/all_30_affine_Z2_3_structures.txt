@@ -1,0 +1,573 @@
+Labels: ['Pe+', 'Pi-', 'Je+', 'Ji-', 'Je-', 'Ji+', 'Pe-', 'Pi+']
+Total affine Z2^3 structures: 30
+
+System 1
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji-
+  100 -> Je-
+  101 -> Ji+
+  110 -> Pe-
+  111 -> Pi+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji- | Je-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Je-,Ji+ | Je+,Ji-,Pe-,Pi+
+  d3: Pe+,Pi-,Pe-,Pi+ | Je+,Ji-,Je-,Ji+
+  d4: Pe+,Je+,Je-,Pe- | Pi-,Ji-,Ji+,Pi+
+  d5: Pe+,Je+,Ji+,Pi+ | Pi-,Ji-,Je-,Pe-
+  d6: Pe+,Ji-,Je-,Pi+ | Pi-,Je+,Ji+,Pe-
+  d7: Pe+,Ji-,Ji+,Pe- | Pi-,Je+,Je-,Pi+
+
+System 2
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji-
+  100 -> Je-
+  101 -> Ji+
+  110 -> Pi+
+  111 -> Pe-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji- | Je-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Je-,Ji+ | Je+,Ji-,Pe-,Pi+
+  d3: Pe+,Pi-,Pe-,Pi+ | Je+,Ji-,Je-,Ji+
+  d4: Pe+,Je+,Je-,Pi+ | Pi-,Ji-,Ji+,Pe-
+  d5: Pe+,Je+,Ji+,Pe- | Pi-,Ji-,Je-,Pi+
+  d6: Pe+,Ji-,Je-,Pe- | Pi-,Je+,Ji+,Pi+
+  d7: Pe+,Ji-,Ji+,Pi+ | Pi-,Je+,Je-,Pe-
+
+System 3
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji-
+  100 -> Je-
+  101 -> Pe-
+  110 -> Ji+
+  111 -> Pi+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji- | Je-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Je-,Pe- | Je+,Ji-,Ji+,Pi+
+  d3: Pe+,Pi-,Ji+,Pi+ | Je+,Ji-,Je-,Pe-
+  d4: Pe+,Je+,Je-,Ji+ | Pi-,Ji-,Pe-,Pi+
+  d5: Pe+,Je+,Pe-,Pi+ | Pi-,Ji-,Je-,Ji+
+  d6: Pe+,Ji-,Je-,Pi+ | Pi-,Je+,Ji+,Pe-
+  d7: Pe+,Ji-,Ji+,Pe- | Pi-,Je+,Je-,Pi+
+
+System 4
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji-
+  100 -> Je-
+  101 -> Pe-
+  110 -> Pi+
+  111 -> Ji+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji- | Je-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Je-,Pe- | Je+,Ji-,Ji+,Pi+
+  d3: Pe+,Pi-,Ji+,Pi+ | Je+,Ji-,Je-,Pe-
+  d4: Pe+,Je+,Je-,Pi+ | Pi-,Ji-,Ji+,Pe-
+  d5: Pe+,Je+,Ji+,Pe- | Pi-,Ji-,Je-,Pi+
+  d6: Pe+,Ji-,Je-,Ji+ | Pi-,Je+,Pe-,Pi+
+  d7: Pe+,Ji-,Pe-,Pi+ | Pi-,Je+,Je-,Ji+
+
+System 5
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji-
+  100 -> Je-
+  101 -> Pi+
+  110 -> Ji+
+  111 -> Pe-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji- | Je-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Je-,Pi+ | Je+,Ji-,Ji+,Pe-
+  d3: Pe+,Pi-,Ji+,Pe- | Je+,Ji-,Je-,Pi+
+  d4: Pe+,Je+,Je-,Ji+ | Pi-,Ji-,Pe-,Pi+
+  d5: Pe+,Je+,Pe-,Pi+ | Pi-,Ji-,Je-,Ji+
+  d6: Pe+,Ji-,Je-,Pe- | Pi-,Je+,Ji+,Pi+
+  d7: Pe+,Ji-,Ji+,Pi+ | Pi-,Je+,Je-,Pe-
+
+System 6
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji-
+  100 -> Je-
+  101 -> Pi+
+  110 -> Pe-
+  111 -> Ji+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji- | Je-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Je-,Pi+ | Je+,Ji-,Ji+,Pe-
+  d3: Pe+,Pi-,Ji+,Pe- | Je+,Ji-,Je-,Pi+
+  d4: Pe+,Je+,Je-,Pe- | Pi-,Ji-,Ji+,Pi+
+  d5: Pe+,Je+,Ji+,Pi+ | Pi-,Ji-,Je-,Pe-
+  d6: Pe+,Ji-,Je-,Ji+ | Pi-,Je+,Pe-,Pi+
+  d7: Pe+,Ji-,Pe-,Pi+ | Pi-,Je+,Je-,Ji+
+
+System 7
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Je-
+  100 -> Ji-
+  101 -> Ji+
+  110 -> Pe-
+  111 -> Pi+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Je- | Ji-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Ji+ | Je+,Je-,Pe-,Pi+
+  d3: Pe+,Pi-,Pe-,Pi+ | Je+,Ji-,Je-,Ji+
+  d4: Pe+,Je+,Ji-,Pe- | Pi-,Je-,Ji+,Pi+
+  d5: Pe+,Je+,Ji+,Pi+ | Pi-,Ji-,Je-,Pe-
+  d6: Pe+,Ji-,Je-,Pi+ | Pi-,Je+,Ji+,Pe-
+  d7: Pe+,Je-,Ji+,Pe- | Pi-,Je+,Ji-,Pi+
+
+System 8
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Je-
+  100 -> Ji-
+  101 -> Ji+
+  110 -> Pi+
+  111 -> Pe-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Je- | Ji-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Ji+ | Je+,Je-,Pe-,Pi+
+  d3: Pe+,Pi-,Pe-,Pi+ | Je+,Ji-,Je-,Ji+
+  d4: Pe+,Je+,Ji-,Pi+ | Pi-,Je-,Ji+,Pe-
+  d5: Pe+,Je+,Ji+,Pe- | Pi-,Ji-,Je-,Pi+
+  d6: Pe+,Ji-,Je-,Pe- | Pi-,Je+,Ji+,Pi+
+  d7: Pe+,Je-,Ji+,Pi+ | Pi-,Je+,Ji-,Pe-
+
+System 9
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Je-
+  100 -> Ji-
+  101 -> Pe-
+  110 -> Ji+
+  111 -> Pi+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Je- | Ji-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Pe- | Je+,Je-,Ji+,Pi+
+  d3: Pe+,Pi-,Ji+,Pi+ | Je+,Ji-,Je-,Pe-
+  d4: Pe+,Je+,Ji-,Ji+ | Pi-,Je-,Pe-,Pi+
+  d5: Pe+,Je+,Pe-,Pi+ | Pi-,Ji-,Je-,Ji+
+  d6: Pe+,Ji-,Je-,Pi+ | Pi-,Je+,Ji+,Pe-
+  d7: Pe+,Je-,Ji+,Pe- | Pi-,Je+,Ji-,Pi+
+
+System 10
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Je-
+  100 -> Ji-
+  101 -> Pe-
+  110 -> Pi+
+  111 -> Ji+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Je- | Ji-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Pe- | Je+,Je-,Ji+,Pi+
+  d3: Pe+,Pi-,Ji+,Pi+ | Je+,Ji-,Je-,Pe-
+  d4: Pe+,Je+,Ji-,Pi+ | Pi-,Je-,Ji+,Pe-
+  d5: Pe+,Je+,Ji+,Pe- | Pi-,Ji-,Je-,Pi+
+  d6: Pe+,Ji-,Je-,Ji+ | Pi-,Je+,Pe-,Pi+
+  d7: Pe+,Je-,Pe-,Pi+ | Pi-,Je+,Ji-,Ji+
+
+System 11
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Je-
+  100 -> Ji-
+  101 -> Pi+
+  110 -> Ji+
+  111 -> Pe-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Je- | Ji-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Pi+ | Je+,Je-,Ji+,Pe-
+  d3: Pe+,Pi-,Ji+,Pe- | Je+,Ji-,Je-,Pi+
+  d4: Pe+,Je+,Ji-,Ji+ | Pi-,Je-,Pe-,Pi+
+  d5: Pe+,Je+,Pe-,Pi+ | Pi-,Ji-,Je-,Ji+
+  d6: Pe+,Ji-,Je-,Pe- | Pi-,Je+,Ji+,Pi+
+  d7: Pe+,Je-,Ji+,Pi+ | Pi-,Je+,Ji-,Pe-
+
+System 12
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Je-
+  100 -> Ji-
+  101 -> Pi+
+  110 -> Pe-
+  111 -> Ji+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Je- | Ji-,Ji+,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Pi+ | Je+,Je-,Ji+,Pe-
+  d3: Pe+,Pi-,Ji+,Pe- | Je+,Ji-,Je-,Pi+
+  d4: Pe+,Je+,Ji-,Pe- | Pi-,Je-,Ji+,Pi+
+  d5: Pe+,Je+,Ji+,Pi+ | Pi-,Ji-,Je-,Pe-
+  d6: Pe+,Ji-,Je-,Ji+ | Pi-,Je+,Pe-,Pi+
+  d7: Pe+,Je-,Pe-,Pi+ | Pi-,Je+,Ji-,Ji+
+
+System 13
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji+
+  100 -> Ji-
+  101 -> Je-
+  110 -> Pe-
+  111 -> Pi+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji+ | Ji-,Je-,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Je- | Je+,Ji+,Pe-,Pi+
+  d3: Pe+,Pi-,Pe-,Pi+ | Je+,Ji-,Je-,Ji+
+  d4: Pe+,Je+,Ji-,Pe- | Pi-,Je-,Ji+,Pi+
+  d5: Pe+,Je+,Je-,Pi+ | Pi-,Ji-,Ji+,Pe-
+  d6: Pe+,Ji-,Ji+,Pi+ | Pi-,Je+,Je-,Pe-
+  d7: Pe+,Je-,Ji+,Pe- | Pi-,Je+,Ji-,Pi+
+
+System 14
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji+
+  100 -> Ji-
+  101 -> Je-
+  110 -> Pi+
+  111 -> Pe-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji+ | Ji-,Je-,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Je- | Je+,Ji+,Pe-,Pi+
+  d3: Pe+,Pi-,Pe-,Pi+ | Je+,Ji-,Je-,Ji+
+  d4: Pe+,Je+,Ji-,Pi+ | Pi-,Je-,Ji+,Pe-
+  d5: Pe+,Je+,Je-,Pe- | Pi-,Ji-,Ji+,Pi+
+  d6: Pe+,Ji-,Ji+,Pe- | Pi-,Je+,Je-,Pi+
+  d7: Pe+,Je-,Ji+,Pi+ | Pi-,Je+,Ji-,Pe-
+
+System 15
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji+
+  100 -> Ji-
+  101 -> Pe-
+  110 -> Je-
+  111 -> Pi+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji+ | Ji-,Je-,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Pe- | Je+,Je-,Ji+,Pi+
+  d3: Pe+,Pi-,Je-,Pi+ | Je+,Ji-,Ji+,Pe-
+  d4: Pe+,Je+,Ji-,Je- | Pi-,Ji+,Pe-,Pi+
+  d5: Pe+,Je+,Pe-,Pi+ | Pi-,Ji-,Je-,Ji+
+  d6: Pe+,Ji-,Ji+,Pi+ | Pi-,Je+,Je-,Pe-
+  d7: Pe+,Je-,Ji+,Pe- | Pi-,Je+,Ji-,Pi+
+
+System 16
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji+
+  100 -> Ji-
+  101 -> Pe-
+  110 -> Pi+
+  111 -> Je-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji+ | Ji-,Je-,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Pe- | Je+,Je-,Ji+,Pi+
+  d3: Pe+,Pi-,Je-,Pi+ | Je+,Ji-,Ji+,Pe-
+  d4: Pe+,Je+,Ji-,Pi+ | Pi-,Je-,Ji+,Pe-
+  d5: Pe+,Je+,Je-,Pe- | Pi-,Ji-,Ji+,Pi+
+  d6: Pe+,Ji-,Je-,Ji+ | Pi-,Je+,Pe-,Pi+
+  d7: Pe+,Ji+,Pe-,Pi+ | Pi-,Je+,Ji-,Je-
+
+System 17
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji+
+  100 -> Ji-
+  101 -> Pi+
+  110 -> Je-
+  111 -> Pe-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji+ | Ji-,Je-,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Pi+ | Je+,Je-,Ji+,Pe-
+  d3: Pe+,Pi-,Je-,Pe- | Je+,Ji-,Ji+,Pi+
+  d4: Pe+,Je+,Ji-,Je- | Pi-,Ji+,Pe-,Pi+
+  d5: Pe+,Je+,Pe-,Pi+ | Pi-,Ji-,Je-,Ji+
+  d6: Pe+,Ji-,Ji+,Pe- | Pi-,Je+,Je-,Pi+
+  d7: Pe+,Je-,Ji+,Pi+ | Pi-,Je+,Ji-,Pe-
+
+System 18
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Ji+
+  100 -> Ji-
+  101 -> Pi+
+  110 -> Pe-
+  111 -> Je-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Ji+ | Ji-,Je-,Pe-,Pi+
+  d2: Pe+,Pi-,Ji-,Pi+ | Je+,Je-,Ji+,Pe-
+  d3: Pe+,Pi-,Je-,Pe- | Je+,Ji-,Ji+,Pi+
+  d4: Pe+,Je+,Ji-,Pe- | Pi-,Je-,Ji+,Pi+
+  d5: Pe+,Je+,Je-,Pi+ | Pi-,Ji-,Ji+,Pe-
+  d6: Pe+,Ji-,Je-,Ji+ | Pi-,Je+,Pe-,Pi+
+  d7: Pe+,Ji+,Pe-,Pi+ | Pi-,Je+,Ji-,Je-
+
+System 19
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pe-
+  100 -> Ji-
+  101 -> Je-
+  110 -> Ji+
+  111 -> Pi+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pe- | Ji-,Je-,Ji+,Pi+
+  d2: Pe+,Pi-,Ji-,Je- | Je+,Ji+,Pe-,Pi+
+  d3: Pe+,Pi-,Ji+,Pi+ | Je+,Ji-,Je-,Pe-
+  d4: Pe+,Je+,Ji-,Ji+ | Pi-,Je-,Pe-,Pi+
+  d5: Pe+,Je+,Je-,Pi+ | Pi-,Ji-,Ji+,Pe-
+  d6: Pe+,Ji-,Pe-,Pi+ | Pi-,Je+,Je-,Ji+
+  d7: Pe+,Je-,Ji+,Pe- | Pi-,Je+,Ji-,Pi+
+
+System 20
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pe-
+  100 -> Ji-
+  101 -> Je-
+  110 -> Pi+
+  111 -> Ji+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pe- | Ji-,Je-,Ji+,Pi+
+  d2: Pe+,Pi-,Ji-,Je- | Je+,Ji+,Pe-,Pi+
+  d3: Pe+,Pi-,Ji+,Pi+ | Je+,Ji-,Je-,Pe-
+  d4: Pe+,Je+,Ji-,Pi+ | Pi-,Je-,Ji+,Pe-
+  d5: Pe+,Je+,Je-,Ji+ | Pi-,Ji-,Pe-,Pi+
+  d6: Pe+,Ji-,Ji+,Pe- | Pi-,Je+,Je-,Pi+
+  d7: Pe+,Je-,Pe-,Pi+ | Pi-,Je+,Ji-,Ji+
+
+System 21
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pe-
+  100 -> Ji-
+  101 -> Ji+
+  110 -> Je-
+  111 -> Pi+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pe- | Ji-,Je-,Ji+,Pi+
+  d2: Pe+,Pi-,Ji-,Ji+ | Je+,Je-,Pe-,Pi+
+  d3: Pe+,Pi-,Je-,Pi+ | Je+,Ji-,Ji+,Pe-
+  d4: Pe+,Je+,Ji-,Je- | Pi-,Ji+,Pe-,Pi+
+  d5: Pe+,Je+,Ji+,Pi+ | Pi-,Ji-,Je-,Pe-
+  d6: Pe+,Ji-,Pe-,Pi+ | Pi-,Je+,Je-,Ji+
+  d7: Pe+,Je-,Ji+,Pe- | Pi-,Je+,Ji-,Pi+
+
+System 22
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pe-
+  100 -> Ji-
+  101 -> Ji+
+  110 -> Pi+
+  111 -> Je-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pe- | Ji-,Je-,Ji+,Pi+
+  d2: Pe+,Pi-,Ji-,Ji+ | Je+,Je-,Pe-,Pi+
+  d3: Pe+,Pi-,Je-,Pi+ | Je+,Ji-,Ji+,Pe-
+  d4: Pe+,Je+,Ji-,Pi+ | Pi-,Je-,Ji+,Pe-
+  d5: Pe+,Je+,Je-,Ji+ | Pi-,Ji-,Pe-,Pi+
+  d6: Pe+,Ji-,Je-,Pe- | Pi-,Je+,Ji+,Pi+
+  d7: Pe+,Ji+,Pe-,Pi+ | Pi-,Je+,Ji-,Je-
+
+System 23
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pe-
+  100 -> Ji-
+  101 -> Pi+
+  110 -> Je-
+  111 -> Ji+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pe- | Ji-,Je-,Ji+,Pi+
+  d2: Pe+,Pi-,Ji-,Pi+ | Je+,Je-,Ji+,Pe-
+  d3: Pe+,Pi-,Je-,Ji+ | Je+,Ji-,Pe-,Pi+
+  d4: Pe+,Je+,Ji-,Je- | Pi-,Ji+,Pe-,Pi+
+  d5: Pe+,Je+,Ji+,Pi+ | Pi-,Ji-,Je-,Pe-
+  d6: Pe+,Ji-,Ji+,Pe- | Pi-,Je+,Je-,Pi+
+  d7: Pe+,Je-,Pe-,Pi+ | Pi-,Je+,Ji-,Ji+
+
+System 24
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pe-
+  100 -> Ji-
+  101 -> Pi+
+  110 -> Ji+
+  111 -> Je-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pe- | Ji-,Je-,Ji+,Pi+
+  d2: Pe+,Pi-,Ji-,Pi+ | Je+,Je-,Ji+,Pe-
+  d3: Pe+,Pi-,Je-,Ji+ | Je+,Ji-,Pe-,Pi+
+  d4: Pe+,Je+,Ji-,Ji+ | Pi-,Je-,Pe-,Pi+
+  d5: Pe+,Je+,Je-,Pi+ | Pi-,Ji-,Ji+,Pe-
+  d6: Pe+,Ji-,Je-,Pe- | Pi-,Je+,Ji+,Pi+
+  d7: Pe+,Ji+,Pe-,Pi+ | Pi-,Je+,Ji-,Je-
+
+System 25
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pi+
+  100 -> Ji-
+  101 -> Je-
+  110 -> Ji+
+  111 -> Pe-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pi+ | Ji-,Je-,Ji+,Pe-
+  d2: Pe+,Pi-,Ji-,Je- | Je+,Ji+,Pe-,Pi+
+  d3: Pe+,Pi-,Ji+,Pe- | Je+,Ji-,Je-,Pi+
+  d4: Pe+,Je+,Ji-,Ji+ | Pi-,Je-,Pe-,Pi+
+  d5: Pe+,Je+,Je-,Pe- | Pi-,Ji-,Ji+,Pi+
+  d6: Pe+,Ji-,Pe-,Pi+ | Pi-,Je+,Je-,Ji+
+  d7: Pe+,Je-,Ji+,Pi+ | Pi-,Je+,Ji-,Pe-
+
+System 26
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pi+
+  100 -> Ji-
+  101 -> Je-
+  110 -> Pe-
+  111 -> Ji+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pi+ | Ji-,Je-,Ji+,Pe-
+  d2: Pe+,Pi-,Ji-,Je- | Je+,Ji+,Pe-,Pi+
+  d3: Pe+,Pi-,Ji+,Pe- | Je+,Ji-,Je-,Pi+
+  d4: Pe+,Je+,Ji-,Pe- | Pi-,Je-,Ji+,Pi+
+  d5: Pe+,Je+,Je-,Ji+ | Pi-,Ji-,Pe-,Pi+
+  d6: Pe+,Ji-,Ji+,Pi+ | Pi-,Je+,Je-,Pe-
+  d7: Pe+,Je-,Pe-,Pi+ | Pi-,Je+,Ji-,Ji+
+
+System 27
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pi+
+  100 -> Ji-
+  101 -> Ji+
+  110 -> Je-
+  111 -> Pe-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pi+ | Ji-,Je-,Ji+,Pe-
+  d2: Pe+,Pi-,Ji-,Ji+ | Je+,Je-,Pe-,Pi+
+  d3: Pe+,Pi-,Je-,Pe- | Je+,Ji-,Ji+,Pi+
+  d4: Pe+,Je+,Ji-,Je- | Pi-,Ji+,Pe-,Pi+
+  d5: Pe+,Je+,Ji+,Pe- | Pi-,Ji-,Je-,Pi+
+  d6: Pe+,Ji-,Pe-,Pi+ | Pi-,Je+,Je-,Ji+
+  d7: Pe+,Je-,Ji+,Pi+ | Pi-,Je+,Ji-,Pe-
+
+System 28
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pi+
+  100 -> Ji-
+  101 -> Ji+
+  110 -> Pe-
+  111 -> Je-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pi+ | Ji-,Je-,Ji+,Pe-
+  d2: Pe+,Pi-,Ji-,Ji+ | Je+,Je-,Pe-,Pi+
+  d3: Pe+,Pi-,Je-,Pe- | Je+,Ji-,Ji+,Pi+
+  d4: Pe+,Je+,Ji-,Pe- | Pi-,Je-,Ji+,Pi+
+  d5: Pe+,Je+,Je-,Ji+ | Pi-,Ji-,Pe-,Pi+
+  d6: Pe+,Ji-,Je-,Pi+ | Pi-,Je+,Ji+,Pe-
+  d7: Pe+,Ji+,Pe-,Pi+ | Pi-,Je+,Ji-,Je-
+
+System 29
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pi+
+  100 -> Ji-
+  101 -> Pe-
+  110 -> Je-
+  111 -> Ji+
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pi+ | Ji-,Je-,Ji+,Pe-
+  d2: Pe+,Pi-,Ji-,Pe- | Je+,Je-,Ji+,Pi+
+  d3: Pe+,Pi-,Je-,Ji+ | Je+,Ji-,Pe-,Pi+
+  d4: Pe+,Je+,Ji-,Je- | Pi-,Ji+,Pe-,Pi+
+  d5: Pe+,Je+,Ji+,Pe- | Pi-,Ji-,Je-,Pi+
+  d6: Pe+,Ji-,Ji+,Pi+ | Pi-,Je+,Je-,Pe-
+  d7: Pe+,Je-,Pe-,Pi+ | Pi-,Je+,Ji-,Ji+
+
+System 30
+Coordinate assignment:
+  000 -> Pe+
+  001 -> Pi-
+  010 -> Je+
+  011 -> Pi+
+  100 -> Ji-
+  101 -> Pe-
+  110 -> Ji+
+  111 -> Je-
+Dichotomies:
+  d1: Pe+,Pi-,Je+,Pi+ | Ji-,Je-,Ji+,Pe-
+  d2: Pe+,Pi-,Ji-,Pe- | Je+,Je-,Ji+,Pi+
+  d3: Pe+,Pi-,Je-,Ji+ | Je+,Ji-,Pe-,Pi+
+  d4: Pe+,Je+,Ji-,Ji+ | Pi-,Je-,Pe-,Pi+
+  d5: Pe+,Je+,Je-,Pe- | Pi-,Ji-,Ji+,Pi+
+  d6: Pe+,Ji-,Je-,Pi+ | Pi-,Je+,Ji+,Pe-
+  d7: Pe+,Ji+,Pe-,Pi+ | Pi-,Je+,Ji-,Je-
+
