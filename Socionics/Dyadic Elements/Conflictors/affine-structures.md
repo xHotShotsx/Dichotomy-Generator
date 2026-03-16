@@ -1,0 +1,573 @@
+Labels: ['?(N|F)', '!(S|T)', '!(N|F)', '?(S|T)', '?(S|F)', '!(N|T)', '!(S|F)', '?(N|T)']
+Total affine Z2^3 structures: 30
+
+System 1 (Reinin)
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|T)
+  100 -> ?(S|F)
+  101 -> !(N|T)
+  110 -> !(S|F)
+  111 -> ?(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|T) | ?(S|F),!(N|T),!(S|F),?(N|T) (Democratic / Aristocratic)
+  d2: ?(N|F),!(S|T),?(S|F),!(N|T) | !(N|F),?(S|T),!(S|F),?(N|T) (Carefree / Farsighted)
+  d3: ?(N|F),!(S|T),!(S|F),?(N|T) | !(N|F),?(S|T),?(S|F),!(N|T) (Yielding / Obstinate)
+  d4: ?(N|F),!(N|F),?(S|F),!(S|F) | !(S|T),?(S|T),!(N|T),?(N|T) (Constructivist / Emotivist)
+  d5: ?(N|F),!(N|F),!(N|T),?(N|T) | !(S|T),?(S|T),?(S|F),!(S|F) (Tactical / Strategic)
+  d6: ?(N|F),?(S|T),?(S|F),?(N|T) | !(S|T),!(N|F),!(N|T),!(S|F) (Asking / Declaring)
+  d7: ?(N|F),?(S|T),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|F),?(N|T) (Static / Dynamic)
+
+System 2
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|T)
+  100 -> ?(S|F)
+  101 -> !(N|T)
+  110 -> ?(N|T)
+  111 -> !(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|T) | ?(S|F),!(N|T),!(S|F),?(N|T) (Democratic / Aristocratic)
+  d2: ?(N|F),!(S|T),?(S|F),!(N|T) | !(N|F),?(S|T),!(S|F),?(N|T) (Carefree / Farsighted)
+  d3: ?(N|F),!(S|T),!(S|F),?(N|T) | !(N|F),?(S|T),?(S|F),!(N|T) (Yielding / Obstinate)
+  d4: ?(N|F),!(N|F),?(S|F),?(N|T) | !(S|T),?(S|T),!(N|T),!(S|F)
+  d5: ?(N|F),!(N|F),!(N|T),!(S|F) | !(S|T),?(S|T),?(S|F),?(N|T)
+  d6: ?(N|F),?(S|T),?(S|F),!(S|F) | !(S|T),!(N|F),!(N|T),?(N|T)
+  d7: ?(N|F),?(S|T),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|F),!(S|F)
+
+System 3 (Activation Quasi Identity HEF)
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|T)
+  100 -> ?(S|F)
+  101 -> !(S|F)
+  110 -> !(N|T)
+  111 -> ?(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|T) | ?(S|F),!(N|T),!(S|F),?(N|T) (Democratic / Aristocratic)
+  d2: ?(N|F),!(S|T),?(S|F),!(S|F) | !(N|F),?(S|T),!(N|T),?(N|T) (SEI+ESI HEF / LII+ILI HEF)
+  d3: ?(N|F),!(S|T),!(N|T),?(N|T) | !(N|F),?(S|T),?(S|F),!(S|F) (ILE+LIE HEF / ESE+SEE HEF)
+  d4: ?(N|F),!(N|F),?(S|F),!(N|T) | !(S|T),?(S|T),!(S|F),?(N|T) (EIE+IEE HEF / SLE+LSE HEF)
+  d5: ?(N|F),!(N|F),!(S|F),?(N|T) | !(S|T),?(S|T),?(S|F),!(N|T) (IEI+EII HEF / LSI+SLI HEF)
+  d6: ?(N|F),?(S|T),?(S|F),?(N|T) | !(S|T),!(N|F),!(N|T),!(S|F) (Asking / Declaring)
+  d7: ?(N|F),?(S|T),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|F),?(N|T) (Static / Dynamic)
+
+System 4
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|T)
+  100 -> ?(S|F)
+  101 -> !(S|F)
+  110 -> ?(N|T)
+  111 -> !(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|T) | ?(S|F),!(N|T),!(S|F),?(N|T) (Democratic / Aristocratic)
+  d2: ?(N|F),!(S|T),?(S|F),!(S|F) | !(N|F),?(S|T),!(N|T),?(N|T) (SEI+ESI HEF / LII+ILI HEF)
+  d3: ?(N|F),!(S|T),!(N|T),?(N|T) | !(N|F),?(S|T),?(S|F),!(S|F) (ILE+LIE HEF / ESE+SEE HEF)
+  d4: ?(N|F),!(N|F),?(S|F),?(N|T) | !(S|T),?(S|T),!(N|T),!(S|F)
+  d5: ?(N|F),!(N|F),!(N|T),!(S|F) | !(S|T),?(S|T),?(S|F),?(N|T)
+  d6: ?(N|F),?(S|T),?(S|F),!(N|T) | !(S|T),!(N|F),!(S|F),?(N|T)
+  d7: ?(N|F),?(S|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|F),!(N|T)
+
+System 5
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|T)
+  100 -> ?(S|F)
+  101 -> ?(N|T)
+  110 -> !(N|T)
+  111 -> !(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|T) | ?(S|F),!(N|T),!(S|F),?(N|T) (Democratic / Aristocratic)
+  d2: ?(N|F),!(S|T),?(S|F),?(N|T) | !(N|F),?(S|T),!(N|T),!(S|F)
+  d3: ?(N|F),!(S|T),!(N|T),!(S|F) | !(N|F),?(S|T),?(S|F),?(N|T)
+  d4: ?(N|F),!(N|F),?(S|F),!(N|T) | !(S|T),?(S|T),!(S|F),?(N|T) (EIE+IEE HEF / SLE+LSE HEF)
+  d5: ?(N|F),!(N|F),!(S|F),?(N|T) | !(S|T),?(S|T),?(S|F),!(N|T) (IEI+EII HEF / LSI+SLI HEF)
+  d6: ?(N|F),?(S|T),?(S|F),!(S|F) | !(S|T),!(N|F),!(N|T),?(N|T)
+  d7: ?(N|F),?(S|T),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|F),!(S|F)
+
+System 6
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|T)
+  100 -> ?(S|F)
+  101 -> ?(N|T)
+  110 -> !(S|F)
+  111 -> !(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|T) | ?(S|F),!(N|T),!(S|F),?(N|T) (Democratic / Aristocratic)
+  d2: ?(N|F),!(S|T),?(S|F),?(N|T) | !(N|F),?(S|T),!(N|T),!(S|F)
+  d3: ?(N|F),!(S|T),!(N|T),!(S|F) | !(N|F),?(S|T),?(S|F),?(N|T)
+  d4: ?(N|F),!(N|F),?(S|F),!(S|F) | !(S|T),?(S|T),!(N|T),?(N|T) (Constructivist / Emotivist)
+  d5: ?(N|F),!(N|F),!(N|T),?(N|T) | !(S|T),?(S|T),?(S|F),!(S|F) (Tactical / Strategic)
+  d6: ?(N|F),?(S|T),?(S|F),!(N|T) | !(S|T),!(N|F),!(S|F),?(N|T)
+  d7: ?(N|F),?(S|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|F),!(N|T)
+
+System 7
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|F)
+  100 -> ?(S|T)
+  101 -> !(N|T)
+  110 -> !(S|F)
+  111 -> ?(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|F) | ?(S|T),!(N|T),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),!(N|T) | !(N|F),?(S|F),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),!(S|F),?(N|T) | !(N|F),?(S|T),?(S|F),!(N|T) (Yielding / Obstinate)
+  d4: ?(N|F),!(N|F),?(S|T),!(S|F) | !(S|T),?(S|F),!(N|T),?(N|T)
+  d5: ?(N|F),!(N|F),!(N|T),?(N|T) | !(S|T),?(S|T),?(S|F),!(S|F) (Tactical / Strategic)
+  d6: ?(N|F),?(S|T),?(S|F),?(N|T) | !(S|T),!(N|F),!(N|T),!(S|F) (Asking / Declaring)
+  d7: ?(N|F),?(S|F),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|T),?(N|T)
+
+System 8
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|F)
+  100 -> ?(S|T)
+  101 -> !(N|T)
+  110 -> ?(N|T)
+  111 -> !(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|F) | ?(S|T),!(N|T),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),!(N|T) | !(N|F),?(S|F),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),!(S|F),?(N|T) | !(N|F),?(S|T),?(S|F),!(N|T) (Yielding / Obstinate)
+  d4: ?(N|F),!(N|F),?(S|T),?(N|T) | !(S|T),?(S|F),!(N|T),!(S|F)
+  d5: ?(N|F),!(N|F),!(N|T),!(S|F) | !(S|T),?(S|T),?(S|F),?(N|T)
+  d6: ?(N|F),?(S|T),?(S|F),!(S|F) | !(S|T),!(N|F),!(N|T),?(N|T)
+  d7: ?(N|F),?(S|F),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|T),!(S|F)
+
+System 9
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|F)
+  100 -> ?(S|T)
+  101 -> !(S|F)
+  110 -> !(N|T)
+  111 -> ?(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|F) | ?(S|T),!(N|T),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),!(S|F) | !(N|F),?(S|F),!(N|T),?(N|T)
+  d3: ?(N|F),!(S|T),!(N|T),?(N|T) | !(N|F),?(S|T),?(S|F),!(S|F) (ILE+LIE HEF / ESE+SEE HEF)
+  d4: ?(N|F),!(N|F),?(S|T),!(N|T) | !(S|T),?(S|F),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),!(S|F),?(N|T) | !(S|T),?(S|T),?(S|F),!(N|T) (IEI+EII HEF / LSI+SLI HEF)
+  d6: ?(N|F),?(S|T),?(S|F),?(N|T) | !(S|T),!(N|F),!(N|T),!(S|F) (Asking / Declaring)
+  d7: ?(N|F),?(S|F),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|T),?(N|T)
+
+System 10
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|F)
+  100 -> ?(S|T)
+  101 -> !(S|F)
+  110 -> ?(N|T)
+  111 -> !(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|F) | ?(S|T),!(N|T),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),!(S|F) | !(N|F),?(S|F),!(N|T),?(N|T)
+  d3: ?(N|F),!(S|T),!(N|T),?(N|T) | !(N|F),?(S|T),?(S|F),!(S|F) (ILE+LIE HEF / ESE+SEE HEF)
+  d4: ?(N|F),!(N|F),?(S|T),?(N|T) | !(S|T),?(S|F),!(N|T),!(S|F)
+  d5: ?(N|F),!(N|F),!(N|T),!(S|F) | !(S|T),?(S|T),?(S|F),?(N|T)
+  d6: ?(N|F),?(S|T),?(S|F),!(N|T) | !(S|T),!(N|F),!(S|F),?(N|T)
+  d7: ?(N|F),?(S|F),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),!(N|T)
+
+System 11
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|F)
+  100 -> ?(S|T)
+  101 -> ?(N|T)
+  110 -> !(N|T)
+  111 -> !(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|F) | ?(S|T),!(N|T),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(N|T) | !(N|F),?(S|F),!(N|T),!(S|F)
+  d3: ?(N|F),!(S|T),!(N|T),!(S|F) | !(N|F),?(S|T),?(S|F),?(N|T)
+  d4: ?(N|F),!(N|F),?(S|T),!(N|T) | !(S|T),?(S|F),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),!(S|F),?(N|T) | !(S|T),?(S|T),?(S|F),!(N|T) (IEI+EII HEF / LSI+SLI HEF)
+  d6: ?(N|F),?(S|T),?(S|F),!(S|F) | !(S|T),!(N|F),!(N|T),?(N|T)
+  d7: ?(N|F),?(S|F),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|T),!(S|F)
+
+System 12
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(S|F)
+  100 -> ?(S|T)
+  101 -> ?(N|T)
+  110 -> !(S|F)
+  111 -> !(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(S|F) | ?(S|T),!(N|T),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(N|T) | !(N|F),?(S|F),!(N|T),!(S|F)
+  d3: ?(N|F),!(S|T),!(N|T),!(S|F) | !(N|F),?(S|T),?(S|F),?(N|T)
+  d4: ?(N|F),!(N|F),?(S|T),!(S|F) | !(S|T),?(S|F),!(N|T),?(N|T)
+  d5: ?(N|F),!(N|F),!(N|T),?(N|T) | !(S|T),?(S|T),?(S|F),!(S|F) (Tactical / Strategic)
+  d6: ?(N|F),?(S|T),?(S|F),!(N|T) | !(S|T),!(N|F),!(S|F),?(N|T)
+  d7: ?(N|F),?(S|F),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),!(N|T)
+
+System 13
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(N|T)
+  100 -> ?(S|T)
+  101 -> ?(S|F)
+  110 -> !(S|F)
+  111 -> ?(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(N|T) | ?(S|T),?(S|F),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(S|F) | !(N|F),!(N|T),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),!(S|F),?(N|T) | !(N|F),?(S|T),?(S|F),!(N|T) (Yielding / Obstinate)
+  d4: ?(N|F),!(N|F),?(S|T),!(S|F) | !(S|T),?(S|F),!(N|T),?(N|T)
+  d5: ?(N|F),!(N|F),?(S|F),?(N|T) | !(S|T),?(S|T),!(N|T),!(S|F)
+  d6: ?(N|F),?(S|T),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|F),!(S|F)
+  d7: ?(N|F),?(S|F),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|T),?(N|T)
+
+System 14
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(N|T)
+  100 -> ?(S|T)
+  101 -> ?(S|F)
+  110 -> ?(N|T)
+  111 -> !(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(N|T) | ?(S|T),?(S|F),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(S|F) | !(N|F),!(N|T),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),!(S|F),?(N|T) | !(N|F),?(S|T),?(S|F),!(N|T) (Yielding / Obstinate)
+  d4: ?(N|F),!(N|F),?(S|T),?(N|T) | !(S|T),?(S|F),!(N|T),!(S|F)
+  d5: ?(N|F),!(N|F),?(S|F),!(S|F) | !(S|T),?(S|T),!(N|T),?(N|T) (Constructivist / Emotivist)
+  d6: ?(N|F),?(S|T),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|F),?(N|T) (Static / Dynamic)
+  d7: ?(N|F),?(S|F),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|T),!(S|F)
+
+System 15
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(N|T)
+  100 -> ?(S|T)
+  101 -> !(S|F)
+  110 -> ?(S|F)
+  111 -> ?(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(N|T) | ?(S|T),?(S|F),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),!(S|F) | !(N|F),?(S|F),!(N|T),?(N|T)
+  d3: ?(N|F),!(S|T),?(S|F),?(N|T) | !(N|F),?(S|T),!(N|T),!(S|F)
+  d4: ?(N|F),!(N|F),?(S|T),?(S|F) | !(S|T),!(N|T),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),!(S|F),?(N|T) | !(S|T),?(S|T),?(S|F),!(N|T) (IEI+EII HEF / LSI+SLI HEF)
+  d6: ?(N|F),?(S|T),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|F),!(S|F)
+  d7: ?(N|F),?(S|F),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|T),?(N|T)
+
+System 16
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(N|T)
+  100 -> ?(S|T)
+  101 -> !(S|F)
+  110 -> ?(N|T)
+  111 -> ?(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(N|T) | ?(S|T),?(S|F),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),!(S|F) | !(N|F),?(S|F),!(N|T),?(N|T)
+  d3: ?(N|F),!(S|T),?(S|F),?(N|T) | !(N|F),?(S|T),!(N|T),!(S|F)
+  d4: ?(N|F),!(N|F),?(S|T),?(N|T) | !(S|T),?(S|F),!(N|T),!(S|F)
+  d5: ?(N|F),!(N|F),?(S|F),!(S|F) | !(S|T),?(S|T),!(N|T),?(N|T) (Constructivist / Emotivist)
+  d6: ?(N|F),?(S|T),?(S|F),!(N|T) | !(S|T),!(N|F),!(S|F),?(N|T)
+  d7: ?(N|F),!(N|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),?(S|F)
+
+System 17
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(N|T)
+  100 -> ?(S|T)
+  101 -> ?(N|T)
+  110 -> ?(S|F)
+  111 -> !(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(N|T) | ?(S|T),?(S|F),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(N|T) | !(N|F),?(S|F),!(N|T),!(S|F)
+  d3: ?(N|F),!(S|T),?(S|F),!(S|F) | !(N|F),?(S|T),!(N|T),?(N|T) (SEI+ESI HEF / LII+ILI HEF)
+  d4: ?(N|F),!(N|F),?(S|T),?(S|F) | !(S|T),!(N|T),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),!(S|F),?(N|T) | !(S|T),?(S|T),?(S|F),!(N|T) (IEI+EII HEF / LSI+SLI HEF)
+  d6: ?(N|F),?(S|T),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|F),?(N|T) (Static / Dynamic)
+  d7: ?(N|F),?(S|F),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|T),!(S|F)
+
+System 18
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(N|T)
+  100 -> ?(S|T)
+  101 -> ?(N|T)
+  110 -> !(S|F)
+  111 -> ?(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(N|T) | ?(S|T),?(S|F),!(S|F),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(N|T) | !(N|F),?(S|F),!(N|T),!(S|F)
+  d3: ?(N|F),!(S|T),?(S|F),!(S|F) | !(N|F),?(S|T),!(N|T),?(N|T) (SEI+ESI HEF / LII+ILI HEF)
+  d4: ?(N|F),!(N|F),?(S|T),!(S|F) | !(S|T),?(S|F),!(N|T),?(N|T)
+  d5: ?(N|F),!(N|F),?(S|F),?(N|T) | !(S|T),?(S|T),!(N|T),!(S|F)
+  d6: ?(N|F),?(S|T),?(S|F),!(N|T) | !(S|T),!(N|F),!(S|F),?(N|T)
+  d7: ?(N|F),!(N|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),?(S|F)
+
+System 19
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(S|F)
+  100 -> ?(S|T)
+  101 -> ?(S|F)
+  110 -> !(N|T)
+  111 -> ?(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(S|F) | ?(S|T),?(S|F),!(N|T),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(S|F) | !(N|F),!(N|T),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),!(N|T),?(N|T) | !(N|F),?(S|T),?(S|F),!(S|F) (ILE+LIE HEF / ESE+SEE HEF)
+  d4: ?(N|F),!(N|F),?(S|T),!(N|T) | !(S|T),?(S|F),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),?(S|F),?(N|T) | !(S|T),?(S|T),!(N|T),!(S|F)
+  d6: ?(N|F),?(S|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|F),!(N|T)
+  d7: ?(N|F),?(S|F),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|T),?(N|T)
+
+System 20
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(S|F)
+  100 -> ?(S|T)
+  101 -> ?(S|F)
+  110 -> ?(N|T)
+  111 -> !(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(S|F) | ?(S|T),?(S|F),!(N|T),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(S|F) | !(N|F),!(N|T),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),!(N|T),?(N|T) | !(N|F),?(S|T),?(S|F),!(S|F) (ILE+LIE HEF / ESE+SEE HEF)
+  d4: ?(N|F),!(N|F),?(S|T),?(N|T) | !(S|T),?(S|F),!(N|T),!(S|F)
+  d5: ?(N|F),!(N|F),?(S|F),!(N|T) | !(S|T),?(S|T),!(S|F),?(N|T) (EIE+IEE HEF / SLE+LSE HEF)
+  d6: ?(N|F),?(S|T),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|F),?(N|T) (Static / Dynamic)
+  d7: ?(N|F),?(S|F),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),!(N|T)
+
+System 21
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(S|F)
+  100 -> ?(S|T)
+  101 -> !(N|T)
+  110 -> ?(S|F)
+  111 -> ?(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(S|F) | ?(S|T),?(S|F),!(N|T),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),!(N|T) | !(N|F),?(S|F),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),?(S|F),?(N|T) | !(N|F),?(S|T),!(N|T),!(S|F)
+  d4: ?(N|F),!(N|F),?(S|T),?(S|F) | !(S|T),!(N|T),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),!(N|T),?(N|T) | !(S|T),?(S|T),?(S|F),!(S|F) (Tactical / Strategic)
+  d6: ?(N|F),?(S|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|F),!(N|T)
+  d7: ?(N|F),?(S|F),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|T),?(N|T)
+
+System 22
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(S|F)
+  100 -> ?(S|T)
+  101 -> !(N|T)
+  110 -> ?(N|T)
+  111 -> ?(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(S|F) | ?(S|T),?(S|F),!(N|T),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),!(N|T) | !(N|F),?(S|F),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),?(S|F),?(N|T) | !(N|F),?(S|T),!(N|T),!(S|F)
+  d4: ?(N|F),!(N|F),?(S|T),?(N|T) | !(S|T),?(S|F),!(N|T),!(S|F)
+  d5: ?(N|F),!(N|F),?(S|F),!(N|T) | !(S|T),?(S|T),!(S|F),?(N|T) (EIE+IEE HEF / SLE+LSE HEF)
+  d6: ?(N|F),?(S|T),?(S|F),!(S|F) | !(S|T),!(N|F),!(N|T),?(N|T)
+  d7: ?(N|F),!(N|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),?(S|F)
+
+System 23
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(S|F)
+  100 -> ?(S|T)
+  101 -> ?(N|T)
+  110 -> ?(S|F)
+  111 -> !(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(S|F) | ?(S|T),?(S|F),!(N|T),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(N|T) | !(N|F),?(S|F),!(N|T),!(S|F)
+  d3: ?(N|F),!(S|T),?(S|F),!(N|T) | !(N|F),?(S|T),!(S|F),?(N|T) (Carefree / Farsighted)
+  d4: ?(N|F),!(N|F),?(S|T),?(S|F) | !(S|T),!(N|T),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),!(N|T),?(N|T) | !(S|T),?(S|T),?(S|F),!(S|F) (Tactical / Strategic)
+  d6: ?(N|F),?(S|T),!(N|T),!(S|F) | !(S|T),!(N|F),?(S|F),?(N|T) (Static / Dynamic)
+  d7: ?(N|F),?(S|F),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),!(N|T)
+
+System 24
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> !(S|F)
+  100 -> ?(S|T)
+  101 -> ?(N|T)
+  110 -> !(N|T)
+  111 -> ?(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),!(S|F) | ?(S|T),?(S|F),!(N|T),?(N|T)
+  d2: ?(N|F),!(S|T),?(S|T),?(N|T) | !(N|F),?(S|F),!(N|T),!(S|F)
+  d3: ?(N|F),!(S|T),?(S|F),!(N|T) | !(N|F),?(S|T),!(S|F),?(N|T) (Carefree / Farsighted)
+  d4: ?(N|F),!(N|F),?(S|T),!(N|T) | !(S|T),?(S|F),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),?(S|F),?(N|T) | !(S|T),?(S|T),!(N|T),!(S|F)
+  d6: ?(N|F),?(S|T),?(S|F),!(S|F) | !(S|T),!(N|F),!(N|T),?(N|T)
+  d7: ?(N|F),!(N|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),?(S|F)
+
+System 25
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(N|T)
+  100 -> ?(S|T)
+  101 -> ?(S|F)
+  110 -> !(N|T)
+  111 -> !(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(N|T) | ?(S|T),?(S|F),!(N|T),!(S|F)
+  d2: ?(N|F),!(S|T),?(S|T),?(S|F) | !(N|F),!(N|T),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),!(N|T),!(S|F) | !(N|F),?(S|T),?(S|F),?(N|T)
+  d4: ?(N|F),!(N|F),?(S|T),!(N|T) | !(S|T),?(S|F),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),?(S|F),!(S|F) | !(S|T),?(S|T),!(N|T),?(N|T) (Constructivist / Emotivist)
+  d6: ?(N|F),?(S|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|F),!(N|T)
+  d7: ?(N|F),?(S|F),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|T),!(S|F)
+
+System 26
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(N|T)
+  100 -> ?(S|T)
+  101 -> ?(S|F)
+  110 -> !(S|F)
+  111 -> !(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(N|T) | ?(S|T),?(S|F),!(N|T),!(S|F)
+  d2: ?(N|F),!(S|T),?(S|T),?(S|F) | !(N|F),!(N|T),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),!(N|T),!(S|F) | !(N|F),?(S|T),?(S|F),?(N|T)
+  d4: ?(N|F),!(N|F),?(S|T),!(S|F) | !(S|T),?(S|F),!(N|T),?(N|T)
+  d5: ?(N|F),!(N|F),?(S|F),!(N|T) | !(S|T),?(S|T),!(S|F),?(N|T) (EIE+IEE HEF / SLE+LSE HEF)
+  d6: ?(N|F),?(S|T),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|F),!(S|F)
+  d7: ?(N|F),?(S|F),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),!(N|T)
+
+System 27
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(N|T)
+  100 -> ?(S|T)
+  101 -> !(N|T)
+  110 -> ?(S|F)
+  111 -> !(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(N|T) | ?(S|T),?(S|F),!(N|T),!(S|F)
+  d2: ?(N|F),!(S|T),?(S|T),!(N|T) | !(N|F),?(S|F),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),?(S|F),!(S|F) | !(N|F),?(S|T),!(N|T),?(N|T) (SEI+ESI HEF / LII+ILI HEF)
+  d4: ?(N|F),!(N|F),?(S|T),?(S|F) | !(S|T),!(N|T),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),!(N|T),!(S|F) | !(S|T),?(S|T),?(S|F),?(N|T)
+  d6: ?(N|F),?(S|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|F),!(N|T)
+  d7: ?(N|F),?(S|F),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|T),!(S|F)
+
+System 28
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(N|T)
+  100 -> ?(S|T)
+  101 -> !(N|T)
+  110 -> !(S|F)
+  111 -> ?(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(N|T) | ?(S|T),?(S|F),!(N|T),!(S|F)
+  d2: ?(N|F),!(S|T),?(S|T),!(N|T) | !(N|F),?(S|F),!(S|F),?(N|T)
+  d3: ?(N|F),!(S|T),?(S|F),!(S|F) | !(N|F),?(S|T),!(N|T),?(N|T) (SEI+ESI HEF / LII+ILI HEF)
+  d4: ?(N|F),!(N|F),?(S|T),!(S|F) | !(S|T),?(S|F),!(N|T),?(N|T)
+  d5: ?(N|F),!(N|F),?(S|F),!(N|T) | !(S|T),?(S|T),!(S|F),?(N|T) (EIE+IEE HEF / SLE+LSE HEF)
+  d6: ?(N|F),?(S|T),?(S|F),?(N|T) | !(S|T),!(N|F),!(N|T),!(S|F) (Asking / Declaring)
+  d7: ?(N|F),!(N|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),?(S|F)
+
+System 29
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(N|T)
+  100 -> ?(S|T)
+  101 -> !(S|F)
+  110 -> ?(S|F)
+  111 -> !(N|T)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(N|T) | ?(S|T),?(S|F),!(N|T),!(S|F)
+  d2: ?(N|F),!(S|T),?(S|T),!(S|F) | !(N|F),?(S|F),!(N|T),?(N|T)
+  d3: ?(N|F),!(S|T),?(S|F),!(N|T) | !(N|F),?(S|T),!(S|F),?(N|T) (Carefree / Farsighted)
+  d4: ?(N|F),!(N|F),?(S|T),?(S|F) | !(S|T),!(N|T),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),!(N|T),!(S|F) | !(S|T),?(S|T),?(S|F),?(N|T)
+  d6: ?(N|F),?(S|T),!(N|T),?(N|T) | !(S|T),!(N|F),?(S|F),!(S|F)
+  d7: ?(N|F),?(S|F),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),!(N|T)
+
+System 30
+Coordinate assignment:
+  000 -> ?(N|F)
+  001 -> !(S|T)
+  010 -> !(N|F)
+  011 -> ?(N|T)
+  100 -> ?(S|T)
+  101 -> !(S|F)
+  110 -> !(N|T)
+  111 -> ?(S|F)
+Dichotomies:
+  d1: ?(N|F),!(S|T),!(N|F),?(N|T) | ?(S|T),?(S|F),!(N|T),!(S|F)
+  d2: ?(N|F),!(S|T),?(S|T),!(S|F) | !(N|F),?(S|F),!(N|T),?(N|T)
+  d3: ?(N|F),!(S|T),?(S|F),!(N|T) | !(N|F),?(S|T),!(S|F),?(N|T) (Carefree / Farsighted)
+  d4: ?(N|F),!(N|F),?(S|T),!(N|T) | !(S|T),?(S|F),!(S|F),?(N|T)
+  d5: ?(N|F),!(N|F),?(S|F),!(S|F) | !(S|T),?(S|T),!(N|T),?(N|T) (Constructivist / Emotivist)
+  d6: ?(N|F),?(S|T),?(S|F),?(N|T) | !(S|T),!(N|F),!(N|T),!(S|F) (Asking / Declaring)
+  d7: ?(N|F),!(N|T),!(S|F),?(N|T) | !(S|T),!(N|F),?(S|T),?(S|F)
+
