@@ -9,7 +9,7 @@ TYPES = [
     "TSB","FNC","NFC","STB","TNP","FSS","NTP","SFS",
 ]
 
-def first_halves_balanced_splits(labels, base_label="αe"):
+def first_halves_balanced_splits(labels, base_label="NTC"):
 
     n = len(labels)
     if n % 2 != 0:
