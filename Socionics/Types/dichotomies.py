@@ -10,7 +10,7 @@ def subsets_with_base(labels):
 
 labels = ["ILE", "SEI", "ESE", "LII", "EIE", "LSI", "SLE", "IEI", "SEE", "ILI", "LIE", "ESI", "LSE", "EII", "IEE", "SLI"]
 
-with open("partitions.txt", "w") as f:
+with open("dichotomies.txt", "w") as f:
     for s, c in subsets_with_base(labels):
         s_str = "{" + ", ".join(s) + "}"
         c_str = "{" + ", ".join(c) + "}" if c else "∅"
